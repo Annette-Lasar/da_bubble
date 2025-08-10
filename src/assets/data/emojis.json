@@ -538,344 +538,635 @@
       },
       {
         "id": "flags_0042",
-        "name": "The Central African Republic",
-        "label": "Flag of the Central African Republic",
+        "name": {
+          "de": "Die Republik Zentralafrika",
+          "en": "The Central African Republic"
+        },
+        "label": {
+          "de": "Flagge der Republik Zentralafrika",
+          "en": "Flag of the Central African Republic"
+        },
         "file": "assets/icons/emojis/flags/1f1e8-1f1eb.svg",
         "has_skin_tone": false
       },
       {
         "id": "flags_0043",
-        "name": "Congo (Brazzaville)",
-        "label": "Flag of Congo (Brazzaville)",
+        "name": {
+          "de": "Kongo (Brazzaville)",
+          "en": "Congo (Brazzaville)"
+        },
+        "label": {
+          "de": "Flagge des Kongo",
+          "en": "Flag of Congo"
+        },
         "file": "assets/icons/emojis/flags/1f1e8-1f1ec.svg",
         "has_skin_tone": false
       },
       {
         "id": "flags_0044",
-        "name": "Switzerland",
-        "label": "Flag of Switzerland",
+        "name": {
+          "de": "Die Schweiz",
+          "en": "Switzerland"
+        },
+        "label": {
+          "de": "Flagge der Schweiz",
+          "en": "Flag of Switzerland"
+        },
         "file": "assets/icons/emojis/flags/1f1e8-1f1ed.svg",
         "has_skin_tone": false
       },
       {
         "id": "flags_0045",
-        "name": "Côte d'Ivoire",
-        "label": "Flag of Côte d'Ivoire",
+        "name": {
+          "de": "Elfenbeinküste",
+          "en": "Côte d'Ivoire"
+        },
+        "label": {
+          "de": "Flagge der Elfenbeinküste",
+          "en": "Flag of Côte d'Ivoire"
+        },
         "file": "assets/icons/emojis/flags/1f1e8-1f1ee.svg",
         "has_skin_tone": false
       },
       {
         "id": "flags_0046",
-        "name": "The Cook Islands",
-        "label": "Flag of the Cook Islands",
+        "name": {
+          "de": "Die Cook-Inseln",
+          "en": "The Cook Islands"
+        },
+        "label": {
+          "de": "Flagge der Cook-Inseln",
+          "en": "Flag of the Cook Islands"
+        },
         "file": "assets/icons/emojis/flags/1f1e8-1f1f0.svg",
         "has_skin_tone": false
       },
       {
         "id": "flags_0047",
-        "name": "Chile",
-        "label": "Flag of Chile",
+        "name": {
+          "de": "Chile",
+          "en": "Chile"
+        },
+        "label": {
+          "de": "Flagge von Chile",
+          "en": "Flag of Chile"
+        },
         "file": "assets/icons/emojis/flags/1f1e8-1f1f1.svg",
         "has_skin_tone": false
       },
       {
         "id": "flags_0048",
-        "name": "Cameroon",
-        "label": "Flag of Cameroon",
+        "name": {
+          "de": "Kamerun",
+          "en": "Cameroon"
+        },
+        "label": {
+          "de": "Flagge von Kamerun",
+          "en": "Flag of Cameroon"
+        },
         "file": "assets/icons/emojis/flags/1f1e8-1f1f2.svg",
         "has_skin_tone": false
       },
       {
         "id": "flags_0049",
-        "name": "China",
-        "label": "Flag of China",
+        "name": {
+          "de": "China",
+          "en": "China"
+        },
+        "label": {
+          "de": "Flagge von China",
+          "en": "Flag of China"
+        },
         "file": "assets/icons/emojis/flags/1f1e8-1f1f3.svg",
         "has_skin_tone": false
       },
       {
         "id": "flags_0050",
-        "name": "Colombia",
-        "label": "Flag of Colombia",
+        "name": {
+          "de": "Kolumbien",
+          "en": "Colombia"
+        },
+        "label": {
+          "de": "Flagge von Kolumbien",
+          "en": "Flag of Colombia"
+        },
         "file": "assets/icons/emojis/flags/1f1e8-1f1f4.svg",
         "has_skin_tone": false
       },
       {
         "id": "flags_0051",
-        "name": "Clipperton Island",
-        "label": "Flag of Clipperton Island",
+        "name": {
+          "de": "Clipperton-Insel",
+          "en": "Clipperton Island"
+        },
+        "label": {
+          "de": "Flagge der Clipperton-Insel",
+          "en": "Flag of Clipperton Island"
+        },
         "file": "assets/icons/emojis/flags/1f1e8-1f1f5.svg",
         "has_skin_tone": false
       },
       {
         "id": "flags_0052",
-        "name": "Costa Rica",
-        "label": "Flag of Costa Rica",
+        "name": {
+          "de": "Costa Rica",
+          "en": "Costa Rica"
+        },
+        "label": {
+          "de": "Flagge von Costa Rica",
+          "en": "Flag of Costa Rica"
+        },
         "file": "assets/icons/emojis/flags/1f1e8-1f1f7.svg",
         "has_skin_tone": false
       },
       {
         "id": "flags_0053",
-        "name": "Cuba",
-        "label": "Flag of Cuba",
+        "name": {
+          "de": "Kuba",
+          "en": "Cuba"
+        },
+        "label": {
+          "de": "Flagge von Kuba",
+          "en": "Flag of Cuba"
+        },
         "file": "assets/icons/emojis/flags/1f1e8-1f1fa.svg",
         "has_skin_tone": false
       },
       {
         "id": "flags_0054",
-        "name": "Cap Verde",
-        "label": "Flag of Cap Verde",
+        "name": {
+          "de": "Kap Verde",
+          "en": "Cap Verde"
+        },
+        "label": {
+          "de": "Flagge von Kap Verde",
+          "en": "Flag of Cap Verde"
+        },
         "file": "assets/icons/emojis/flags/1f1e8-1f1fb.svg",
         "has_skin_tone": false
       },
       {
         "id": "flags_0055",
-        "name": "Curaçao",
-        "label": "Flag of Curaçao",
+        "name": {
+          "de": "Curaçao",
+          "en": "Curaçao"
+        },
+        "label": {
+          "de": "Flagge von Curaçao",
+          "en": "Flag of Curaçao"
+        },
         "file": "assets/icons/emojis/flags/1f1e8-1f1fc.svg",
         "has_skin_tone": false
       },
       {
         "id": "flags_0056",
-        "name": "The Christmas Islands",
-        "label": "Flag of the Christmas Islands",
+        "name": {
+          "de": "Die Weihnachtsinsel",
+          "en": "Christmas Island"
+        },
+        "label": {
+          "de": "Flagge der Weihnachtsinsel",
+          "en": "Flag of Christmas Island"
+        },
         "file": "assets/icons/emojis/flags/1f1e8-1f1fd.svg",
         "has_skin_tone": false
       },
       {
         "id": "flags_0057",
-        "name": "Cyprus",
-        "label": "Flag of Cyprus",
+        "name": {
+          "de": "Zypern",
+          "en": "Cyprus"
+        },
+        "label": {
+          "de": "Flagge von Zypern",
+          "en": "Flag of Cyprus"
+        },
         "file": "assets/icons/emojis/flags/1f1e8-1f1fe.svg",
         "has_skin_tone": false
       },
       {
         "id": "flags_0058",
-        "name": "Czechia",
-        "label": "Flag of Czechia",
+        "name": {
+          "de": "Tschechien",
+          "en": "Czechia"
+        },
+        "label": {
+          "de": "Flagge von Tschechien",
+          "en": "Flag of Czechia"
+        },
         "file": "assets/icons/emojis/flags/1f1e8-1f1ff.svg",
         "has_skin_tone": false
       },
       {
         "id": "flags_0059",
-        "name": "Germany",
-        "label": "Flag of Germany",
+        "name": {
+          "de": "Deutschland",
+          "en": "Germany"
+        },
+        "label": {
+          "de": "Flagge von Deutschland",
+          "en": "Flag of Germany"
+        },
         "file": "assets/icons/emojis/flags/1f1e9-1f1ea.svg",
         "has_skin_tone": false
       },
       {
         "id": "flags_0060",
-        "name": "Diego Garcia",
-        "label": "Flag of Diego Garcia",
+        "name": {
+          "de": "Diego Garcia",
+          "en": "Diego Garcia"
+        },
+        "label": {
+          "de": "Flagge von Diego Garcia",
+          "en": "Flag of Diego Garcia"
+        },
         "file": "assets/icons/emojis/flags/1f1e9-1f1ec.svg",
         "has_skin_tone": false
       },
       {
         "id": "flags_0061",
-        "name": "Djibouti",
-        "label": "Flag of Djibouti",
+        "name": {
+          "de": "Dschibuti",
+          "en": "Djibouti"
+        },
+        "label": {
+          "de": "Flagge von Dschibuti",
+          "en": "Flag of Djibouti"
+        },
         "file": "assets/icons/emojis/flags/1f1e9-1f1ef.svg",
         "has_skin_tone": false
       },
       {
         "id": "flags_0062",
-        "name": "Denmark",
-        "label": "Flag of Denmark",
+        "name": {
+          "de": "Dänemark",
+          "en": "Denmark"
+        },
+        "label": {
+          "de": "Flagge von Dänemark",
+          "en": "Flag of Denmark"
+        },
         "file": "assets/icons/emojis/flags/1f1e9-1f1f0.svg",
         "has_skin_tone": false
       },
       {
         "id": "flags_0063",
-        "name": "Dominica",
-        "label": "Flag of Dominica",
+        "name": {
+          "de": "Dominica",
+          "en": "Dominica"
+        },
+        "label": {
+          "de": "Flagge von Dominica",
+          "en": "Flag of Dominica"
+        },
         "file": "assets/icons/emojis/flags/1f1e9-1f1f2.svg",
         "has_skin_tone": false
       },
       {
         "id": "flags_0064",
-        "name": "The Dominican Republic",
-        "label": "Flag of the Dominican Republic",
+        "name": {
+          "de": "Dominikanische Republik",
+          "en": "The Dominican Republic"
+        },
+        "label": {
+          "de": "Flagge der Dominikanischen Republik",
+          "en": "Flag of the Dominican Republic"
+        },
         "file": "assets/icons/emojis/flags/1f1e9-1f1f4.svg",
         "has_skin_tone": false
       },
       {
         "id": "flags_0065",
-        "name": "Algeria",
-        "label": "Flag of Algeria",
+        "name": {
+          "de": "Algerien",
+          "en": "Algeria"
+        },
+        "label": {
+          "de": "Flagge von Algerien",
+          "en": "Flag of Algeria"
+        },
         "file": "assets/icons/emojis/flags/1f1e9-1f1ff.svg",
         "has_skin_tone": false
       },
       {
         "id": "flags_0066",
-        "name": "Ceuta & Melilla",
-        "label": "Flag of Ceuta & Melilla",
+        "name": {
+          "de": "Ceuta & Melilla",
+          "en": "Ceuta & Melilla"
+        },
+        "label": {
+          "de": "Flagge von Ceuta & Melilla",
+          "en": "Flag of Ceuta & Melilla"
+        },
         "file": "assets/icons/emojis/flags/1f1ea-1f1e6.svg",
         "has_skin_tone": false
       },
       {
         "id": "flags_0067",
-        "name": "Ecuador",
-        "label": "Flag of Ecuador",
+        "name": {
+          "de": "Ecuador",
+          "en": "Ecuador"
+        },
+        "label": {
+          "de": "Flagge von Ecuador",
+          "en": "Flag of Ecuador"
+        },
         "file": "assets/icons/emojis/flags/1f1ea-1f1e8.svg",
         "has_skin_tone": false
       },
       {
         "id": "flags_0068",
-        "name": "Estonia",
-        "label": "Flag of Estonia",
+        "name": {
+          "de": "Estland",
+          "en": "Estonia"
+        },
+        "label": {
+          "de": "Flagge von Estland",
+          "en": "Flag of Estonia"
+        },
         "file": "assets/icons/emojis/flags/1f1ea-1f1ea.svg",
         "has_skin_tone": false
       },
       {
         "id": "flags_0069",
-        "name": "Egypt",
+        "name": {
+          "de": "Ägypten",
+          "en": "Egypt"
+        },
         "label": "Flag of Egypt",
         "file": "assets/icons/emojis/flags/1f1ea-1f1ec.svg",
         "has_skin_tone": false
       },
       {
         "id": "flags_0070",
-        "name": "Western Sahara",
-        "label": "Flag of Western Sahara",
+        "name": {
+          "de": "Westsahara",
+          "en": "Western Sahara"
+        },
+        "label": {
+          "de": "Flagge von Westsahara",
+          "en": "Flag of Western Sahara"
+        },
         "file": "assets/icons/emojis/flags/1f1ea-1f1ed.svg",
         "has_skin_tone": false
       },
       {
         "id": "flags_0071",
-        "name": "Eritrea",
-        "label": "Flag of Eritrea",
+        "name": {
+          "de": "Eritrea",
+          "en": "Eritrea"
+        },
+        "label": {
+          "de": "Flagge von Eritrea",
+          "en": "Flag of Eritrea"
+        },
         "file": "assets/icons/emojis/flags/1f1ea-1f1f7.svg",
         "has_skin_tone": false
       },
       {
         "id": "flags_0072",
-        "name": "Spain",
-        "label": "Flag of Spain",
+        "name": {
+          "de": "Spanien",
+          "en": "Spain"
+        },
+        "label": {
+          "de": "Flagge von Spanien",
+          "en": "Flag of Spain"
+        },
         "file": "assets/icons/emojis/flags/1f1ea-1f1f8.svg",
         "has_skin_tone": false
       },
       {
         "id": "flags_0073",
-        "name": "Ethiopia",
-        "label": "Flag of Ethiopia",
+        "name": {
+          "de": "Äthiopien",
+          "en": "Ethiopia"
+        },
+        "label": {
+          "de": "Flagge von Äthiopien",
+          "en": "Flag of Ethiopia"
+        },
         "file": "assets/icons/emojis/flags/1f1ea-1f1f9.svg",
         "has_skin_tone": false
       },
       {
         "id": "flags_0074",
-        "name": "The European Union",
-        "label": "Flag of the European Union",
+        "name": {
+          "de": "Die Europäische Union",
+          "en": "The European Union"
+        },
+        "label": {
+          "de": "Flagge der Europäischen Union",
+          "en": "Flag of the European Union"
+        },
         "file": "assets/icons/emojis/flags/1f1ea-1f1fa.svg",
         "has_skin_tone": false
       },
       {
         "id": "flags_0075",
-        "name": "Finland",
-        "label": "Flag of Finland",
+        "name": {
+          "de": "Finnland",
+          "en": "Finland"
+        },
+        "label": {
+          "de": "Flagge von Finnland",
+          "en": "Flag of Finland"
+        },
         "file": "assets/icons/emojis/flags/1f1eb-1f1ee.svg",
         "has_skin_tone": false
       },
       {
         "id": "flags_0076",
-        "name": "Fiji",
-        "label": "Flag of Fiji",
+        "name": {
+          "de": "Fidschi",
+          "en": "Fiji"
+        },
+        "label": {
+          "de": "Flagge von Fidschi",
+          "en": "Flag of Fiji"
+        },
         "file": "assets/icons/emojis/flags/1f1eb-1f1ef.svg",
         "has_skin_tone": false
       },
       {
         "id": "flags_0077",
-        "name": "The Falkland Islands",
-        "label": "Flag of the Falkland Islands",
+        "name": {
+          "de": "Die Falkland-Inseln",
+          "en": "The Falkland Islands"
+        },
+        "label": {
+          "de": "Flagge der Falkland-Inseln",
+          "en": "Flag of the Falkland Islands"
+        },
         "file": "assets/icons/emojis/flags/1f1eb-1f1f0.svg",
         "has_skin_tone": false
       },
       {
         "id": "flags_0078",
-        "name": "Micronesia",
-        "label": "Flag of Micronesia",
+        "name": {
+          "de": "Mikronesien",
+          "en": "Micronesia"
+        },
+        "label": {
+          "de": "Flagge von Mikronesien",
+          "en": "Flag of Micronesia"
+        },
         "file": "assets/icons/emojis/flags/1f1eb-1f1f2.svg",
         "has_skin_tone": false
       },
       {
         "id": "flags_0079",
-        "name": "The Faroe Islands",
-        "label": "Flag of the Faroe Islands",
+        "name": {
+          "de": "Die Färöer-Inseln",
+          "en": "The Faroe Islands"
+        },
+        "label": {
+          "de": "Flagge der Färöer-Inseln",
+          "en": "Flag of the Faroe Islands"
+        },
         "file": "assets/icons/emojis/flags/1f1eb-1f1f4.svg",
         "has_skin_tone": false
       },
       {
         "id": "flags_0080",
-        "name": "France",
-        "label": "Flag of France",
+        "name": {
+          "de": "Frankreich",
+          "en": "France"
+        },
+        "label": {
+          "de": "Flagge von Frankreich",
+          "en": "Flag of France"
+        },
         "file": "assets/icons/emojis/flags/1f1eb-1f1f7.svg",
         "has_skin_tone": false
       },
       {
         "id": "flags_0081",
-        "name": "Gabon",
-        "label": "Flag of Gabon",
+        "name": {
+          "de": "Gabun",
+          "en": "Gabon"
+        },
+        "label": {
+          "de": "Flagge von Gabun",
+          "en": "Flag of Gabon"
+        },
         "file": "assets/icons/emojis/flags/1f1ec-1f1e6.svg",
         "has_skin_tone": false
       },
       {
         "id": "flags_0082",
-        "name": "The United Kingdom",
-        "label": "Flag of the United Kingdom",
+        "name": {
+          "de": "Das Vereinigte Königreich",
+          "en": "The United Kingdom"
+        },
+        "label": {
+          "de": "Flagge des vereinigten Königreichs",
+          "en": "Flag of the United Kingdom"
+        },
         "file": "assets/icons/emojis/flags/1f1ec-1f1e7.svg",
         "has_skin_tone": false
       },
       {
         "id": "flags_0083",
-        "name": "Grenada",
-        "label": "Flag of Grenada",
+        "name": {
+          "de": "Grenada",
+          "en": "Grenada"
+        },
+        "label": {
+          "de": "Flagge von Grenada",
+          "en": "Flag of Grenada"
+        },
         "file": "assets/icons/emojis/flags/1f1ec-1f1e9.svg",
         "has_skin_tone": false
       },
       {
         "id": "flags_0084",
-        "name": "Georgia",
-        "label": "Flag of Georgia",
+        "name": {
+          "de": "Georgien",
+          "en": "Georgia"
+        },
+        "label": {
+          "de": "Flagge von Georgien",
+          "en": "Flag of Georgia"
+        },
         "file": "assets/icons/emojis/flags/1f1ec-1f1ea.svg",
         "has_skin_tone": false
       },
       {
         "id": "flags_0085",
-        "name": "French Guiana",
-        "label": "Flag of French Guiana",
+        "name": {
+          "de": "Französisch-Guayana",
+          "en": "French Guiana"
+        },
+        "label": {
+          "de": "Flagge von Französisch-Guayana",
+          "en": "Flag of French Guiana"
+        },
         "file": "assets/icons/emojis/flags/1f1ec-1f1eb.svg",
         "has_skin_tone": false
       },
       {
         "id": "flags_0086",
-        "name": "Guernsey",
-        "label": "Flag of Guernsey",
+        "name": {
+          "de": "Guernsey",
+          "en": "Guernsey"
+        },
+        "label": {
+          "de": "Flagge von Guernsey",
+          "en": "Flag of Guernsey"
+        },
         "file": "assets/icons/emojis/flags/1f1ec-1f1ec.svg",
         "has_skin_tone": false
       },
       {
         "id": "flags_0087",
-        "name": "Ghana",
-        "label": "Flag of Ghana",
+        "name": {
+          "de": "Ghana",
+          "en": "Ghana"
+        },
+        "label": {
+          "de": "Flagge von Ghana",
+          "en": "Flag of Ghana"
+        },
         "file": "assets/icons/emojis/flags/1f1ec-1f1ed.svg",
         "has_skin_tone": false
       },
       {
         "id": "flags_0088",
-        "name": "Gibraltar",
-        "label": "Flag of Gibraltar",
+        "name": {
+          "de": "Gibraltar",
+          "en": "Gibraltar"
+        },
+        "label": {
+          "de": "Flagge von Gibraltar",
+          "en": "Flag of Gibraltar"
+        },
         "file": "assets/icons/emojis/flags/1f1ec-1f1ee.svg",
         "has_skin_tone": false
       },
       {
         "id": "flags_0089",
-        "name": "Greeland",
-        "label": "Flag of Greeland",
+        "name": {
+          "de": "Grönland",
+          "en": "Greeland"
+        },
+        "label": {
+          "de": "Flagge von Grönland",
+          "en": "Flag of Greeland"
+        },
         "file": "assets/icons/emojis/flags/1f1ec-1f1f1.svg",
         "has_skin_tone": false
       },
       {
         "id": "flags_0090",
-        "name": "Gambia",
-        "label": "Flag of Gambia",
+        "name": {
+          "de": "Gambia",
+          "en": "Gambia"
+        },
+        "label": {
+          "de": "Flagge von Gambia",
+          "en": "Flag of Gambia"
+        },
         "file": "assets/icons/emojis/flags/1f1ec-1f1f2.svg",
         "has_skin_tone": false
       },
