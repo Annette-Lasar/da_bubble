@@ -1,0 +1,21 @@
+@use "@angular/material" as mat;
+@use "./custom-colors.scss" as palette;
+
+@include mat.core();
+
+$dabubble-theme: mat.define-light-theme(
+    (
+        color: (
+            primary: palette.$primary-purple-palette,
+            secondary: palette.$secondary-purple-palette,
+            accent: palette.$accent-turquoise-palette,
+            warn: palette.$warn-pink-palette,
+            success: palette.$success-green-palette,
+        ),
+    )
+);
+
+@include mat.core-theme($dabubble-theme);
+// Hier weitere Komponenten von Angular Material einfügen!
+
+@include mat.all-component-themes($dabubble-theme);

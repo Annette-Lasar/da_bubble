@@ -1,0 +1,6 @@
+@use "@angular/material" as mat;
+@use "../scss-styles/index.scss" as style;
+
+h1 {
+  color: mat.get-color-from-palette(style.$warn-pink-palette, 500);
+}

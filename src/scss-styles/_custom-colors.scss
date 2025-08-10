@@ -1,0 +1,146 @@
+@use "@angular/material" as mat;
+
+// Primary color palette:
+$primary-purple-palette: mat.define-palette(
+  (
+    50: #eaeafd,
+    100: #c6c8f9,
+    200: #a3a7f5,
+    300: #7e85f1,
+    400: #666ef0,
+    500: #444df2,
+    // main color according to mockup
+    600: #3c46e1,
+    700: #353dcc,
+    800: #2d35b8,
+    900: #2025a1,
+    contrast: (
+      50: rgba(0, 0, 0, 0.87),
+      100: rgba(0, 0, 0, 0.87),
+      200: rgba(0, 0, 0, 0.87),
+      300: rgba(255, 255, 255, 1),
+      400: rgba(255, 255, 255, 1),
+      500: rgba(255, 255, 255, 1),
+      600: rgba(255, 255, 255, 1),
+      700: rgba(255, 255, 255, 1),
+      800: rgba(255, 255, 255, 1),
+      900: rgba(255, 255, 255, 1),
+    ),
+  )
+);
+
+// Secondary color palette:
+$secondary-purple-palette: mat.define-palette(
+  (
+    50: #eceeff,
+    100: #d2d5fc,
+    200: #b8bcf8,
+    300: #9ea3f5,
+    400: #858af3,
+    500: #535af1,
+    // secondary color according to mockup
+    600: #4b52e0,
+    700: #4349cb,
+    800: #3a40b6,
+    900: #2a3099,
+    contrast: (
+      50: rgba(0, 0, 0, 0.87),
+      100: rgba(0, 0, 0, 0.87),
+      200: rgba(0, 0, 0, 0.87),
+      300: rgba(0, 0, 0, 0.87),
+      400: rgba(255, 255, 255, 1),
+      500: rgba(255, 255, 255, 1),
+      600: rgba(255, 255, 255, 1),
+      700: rgba(255, 255, 255, 1),
+      800: rgba(255, 255, 255, 1),
+      900: rgba(255, 255, 255, 1),
+    ),
+  )
+);
+
+// Accent color palette (alibi function; not specified in the mockup):
+$accent-turquoise-palette: mat.define-palette(
+  (
+    50: #e0f7f9,
+    100: #b3ecf0,
+    200: #80dfe6,
+    300: #4dd3dc,
+    400: #26c9d5,
+    500: #00b8c4,
+    // accent color - not specified in the mockup (alibi palette)
+    600: #00a6b0,
+    700: #00909a,
+    800: #007a84,
+    900: #005b62,
+    contrast: (
+      50: rgba(0, 0, 0, 0.87),
+      100: rgba(0, 0, 0, 0.87),
+      200: rgba(0, 0, 0, 0.87),
+      300: rgba(0, 0, 0, 0.87),
+      400: rgba(0, 0, 0, 0.87),
+      500: rgba(255, 255, 255, 1),
+      600: rgba(255, 255, 255, 1),
+      700: rgba(255, 255, 255, 1),
+      800: rgba(255, 255, 255, 1),
+      900: rgba(255, 255, 255, 1),
+    ),
+  )
+);
+
+// Warning color palette:
+$warn-pink-palette: mat.define-palette(
+  (
+    50: #fde6f0,
+    100: #fbbdd9,
+    200: #f993c1,
+    300: #f669a9,
+    400: #f34e97,
+    500: #ed1e79,
+    // main color according to mockup
+    600: #d3196d,
+    700: #b2155f,
+    800: #921151,
+    900: #6d0c3f,
+    contrast: (
+      50: rgba(0, 0, 0, 0.87),
+      100: rgba(0, 0, 0, 0.87),
+      200: rgba(0, 0, 0, 0.87),
+      300: rgba(255, 255, 255, 1),
+      400: rgba(255, 255, 255, 1),
+      500: rgba(255, 255, 255, 1),
+      600: rgba(255, 255, 255, 1),
+      700: rgba(255, 255, 255, 1),
+      800: rgba(255, 255, 255, 1),
+      900: rgba(255, 255, 255, 1),
+    ),
+  )
+);
+
+// Success color palette:
+$success-green-palette: mat.define-palette(
+  (
+    50: #f4fae8,
+    100: #e2f2c2,
+    200: #cde999,
+    300: #b7df70,
+    400: #a6d851,
+    500: #92c83e,
+    // main color according to mockup
+    600: #85b938,
+    700: #74a430,
+    800: #648e29,
+    900: #48671d,
+    contrast: (
+      50: rgba(0, 0, 0, 0.87),
+      100: rgba(0, 0, 0, 0.87),
+      200: rgba(0, 0, 0, 0.87),
+      300: rgba(0, 0, 0, 0.87),
+      400: rgba(0, 0, 0, 0.87),
+      500: rgba(0, 0, 0, 0.87),
+      600: rgba(0, 0, 0, 0.87),
+      700: rgba(255, 255, 255, 1),
+      800: rgba(255, 255, 255, 1),
+      900: rgba(255, 255, 255, 1),
+    ),
+  )
+);
