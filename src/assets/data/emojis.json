@@ -1,21 +1,903 @@
 [
   {
-    "category": "flags",
-    "ux_title": "Flags",
+    "category": "smileys_emotions",
+    "ux_title": {
+      "de": "Smileys & Emotionen",
+      "en": "Smileys & Emotions"
+    },
     "emojis": [
       {
-        "id": "flags_0001",
+        "id": "smileys_0000",
         "name": {
-          "de": "Ascension",
-          "en": "Ascension Island"
+          "de": "Grinsendes Gesicht",
+          "en": "Grinning face"
         },
         "label": {
-          "de": "Flagge von Ascension",
-          "en": "Flag of Ascension Island"
+          "de": "Grinsendes Gesicht",
+          "en": "Grinning face"
         },
-        "file": "assets/icons/emojis/flags/1f1e6-1f1e8.svg",
+        "files": {
+          "default": "assets/icons/emojis/smileys_emotions/1f600.svg"
+        },
         "has_skin_tone": false
       },
+      {
+        "id": "smileys_0000",
+        "name": {
+          "de": "Grinsendes Gesicht mit großen Augen",
+          "en": "Grinning face with big eyes"
+        },
+        "label": {
+          "de": "Grinsendes Gesicht (2)",
+          "en": "Grinning face (2)"
+        },
+        "files": {
+          "default": "assets/icons/emojis/smileys_emotions/1f603.svg"
+        },
+        "keywords": [],
+        "has_skin_tone": false
+      },
+      {
+        "id": "smileys_0000",
+        "name": {
+          "de": "Grinsendes Gesicht mit lächelnden Augen",
+          "en": "Grinning face with smiling eyes"
+        },
+        "label": {
+          "de": "Grinsendes Gesicht (3)",
+          "en": "Grinning face (3)"
+        },
+        "files": {
+          "default": "assets/icons/emojis/smileys_emotions/1f604.svg"
+        },
+        "keywords": [],
+        "has_skin_tone": false
+      },
+      {
+        "id": "smileys_0000",
+        "name": {
+          "de": "Strahlendes Gesicht mit lächelnden Augen",
+          "en": "Beaming face with smiling eyes"
+        },
+        "label": {
+          "de": "Strahlendes Gesicht",
+          "en": "Beaming face"
+        },
+        "files": {
+          "default": "assets/icons/emojis/smileys_emotions/1f601.svg"
+        },
+        "keywords": [],
+        "has_skin_tone": false
+      },
+      {
+        "id": "smileys_0000",
+        "name": {
+          "de": "Grinsendes blinzelndes Gesicht",
+          "en": "Grinning squinting face"
+        },
+        "label": {
+          "de": "Grinsendes Gesicht (4)",
+          "en": "Grinning face (4)"
+        },
+        "files": {
+          "default": "assets/icons/emojis/smileys_emotions/1f606.svg"
+        },
+        "keywords": [],
+        "has_skin_tone": false
+      },
+      {
+        "id": "smileys_0000",
+        "name": {
+          "de": "Grinsendes Gesicht mit Schweiß",
+          "en": "Grinning face with sweat"
+        },
+        "label": {
+          "de": "Grinsendes Gesicht (5)",
+          "en": "Grinning face (5)"
+        },
+        "files": {
+          "default": "assets/icons/emojis/smileys_emotions/1f605.svg"
+        },
+        "keywords": [],
+        "has_skin_tone": false
+      },
+      {
+        "id": "smileys_0000",
+        "name": {
+          "de": "Lachend auf dem Boden wälzen",
+          "en": "Rolling on the floor laughing"
+        },
+        "label": {
+          "de": "Lachend wälzen",
+          "en": "ROFL"
+        },
+        "files": {
+          "default": "assets/icons/emojis/smileys_emotions/1f923.svg"
+        },
+        "keywords": [],
+        "has_skin_tone": false
+      },
+      {
+        "id": "smileys_0000",
+        "name": {
+          "de": "Gesicht mit Lachtränen",
+          "en": "Face with tears of joy"
+        },
+        "label": {
+          "de": "Gesicht mit Lachtränen",
+          "en": "Face with tears of joy"
+        },
+        "files": {
+          "default": "assets/icons/emojis/smileys_emotions/1f602.svg"
+        },
+        "keywords": [],
+        "has_skin_tone": false
+      },
+      {
+        "id": "smileys_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/smileys_emotions/"
+        },
+        "keywords": [],
+        "has_skin_tone": false
+      },
+      {
+        "id": "smileys_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/smileys_emotions/"
+        },
+        "keywords": [],
+        "has_skin_tone": false
+      },
+      {
+        "id": "smileys_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/smileys_emotions/"
+        },
+        "keywords": [],
+        "has_skin_tone": false
+      },
+      {
+        "id": "smileys_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/smileys_emotions/"
+        },
+        "keywords": [],
+        "has_skin_tone": false
+      },
+      {
+        "id": "smileys_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/smileys_emotions/"
+        },
+        "keywords": [],
+        "has_skin_tone": false
+      },
+      {
+        "id": "smileys_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/smileys_emotions/"
+        },
+        "keywords": [],
+        "has_skin_tone": false
+      },
+      {
+        "id": "smileys_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/smileys_emotions/"
+        },
+        "keywords": [],
+        "has_skin_tone": false
+      },
+      {
+        "id": "smileys_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/smileys_emotions/"
+        },
+        "keywords": [],
+        "has_skin_tone": false
+      },
+      {
+        "id": "smileys_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/smileys_emotions/"
+        },
+        "keywords": [],
+        "has_skin_tone": false
+      },
+      {
+        "id": "smileys_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/smileys_emotions/"
+        },
+        "keywords": [],
+        "has_skin_tone": false
+      },
+      {
+        "id": "smileys_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/smileys_emotions/"
+        },
+        "keywords": [],
+        "has_skin_tone": false
+      },
+      {
+        "id": "smileys_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/smileys_emotions/"
+        },
+        "keywords": [],
+        "has_skin_tone": false
+      },
+      {
+        "id": "smileys_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/smileys_emotions/"
+        },
+        "keywords": [],
+        "has_skin_tone": false
+      },
+      {
+        "id": "smileys_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/smileys_emotions/"
+        },
+        "keywords": [],
+        "has_skin_tone": false
+      },
+      {
+        "id": "smileys_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/smileys_emotions/"
+        },
+        "keywords": [],
+        "has_skin_tone": false
+      },
+      {
+        "id": "smileys_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/smileys_emotions/"
+        },
+        "keywords": [],
+        "has_skin_tone": false
+      },
+      {
+        "id": "smileys_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/smileys_emotions/"
+        },
+        "keywords": [],
+        "has_skin_tone": false
+      },
+      {
+        "id": "smileys_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/smileys_emotions/"
+        },
+        "keywords": [],
+        "has_skin_tone": false
+      },
+      {
+        "id": "smileys_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/smileys_emotions/"
+        },
+        "keywords": [],
+        "has_skin_tone": false
+      },
+      {
+        "id": "smileys_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/smileys_emotions/"
+        },
+        "keywords": [],
+        "has_skin_tone": false
+      },
+      {
+        "id": "smileys_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/smileys_emotions/"
+        },
+        "keywords": [],
+        "has_skin_tone": false
+      },
+      {
+        "id": "smileys_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/smileys_emotions/"
+        },
+        "keywords": [],
+        "has_skin_tone": false
+      },
+      {
+        "id": "smileys_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/smileys_emotions/"
+        },
+        "keywords": [],
+        "has_skin_tone": false
+      },
+      {
+        "id": "smileys_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/smileys_emotions/"
+        },
+        "keywords": [],
+        "has_skin_tone": false
+      },
+      {
+        "id": "smileys_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/smileys_emotions/"
+        },
+        "keywords": [],
+        "has_skin_tone": false
+      },
+      {
+        "id": "smileys_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/smileys_emotions/"
+        },
+        "keywords": [],
+        "has_skin_tone": false
+      },
+      {
+        "id": "smileys_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/smileys_emotions/"
+        },
+        "keywords": [],
+        "has_skin_tone": false
+      },
+      {
+        "id": "smileys_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/smileys_emotions/"
+        },
+        "keywords": [],
+        "has_skin_tone": false
+      },
+      {
+        "id": "smileys_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/smileys_emotions/"
+        },
+        "keywords": [],
+        "has_skin_tone": false
+      },
+      {
+        "id": "smileys_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/smileys_emotions/"
+        },
+        "keywords": [],
+        "has_skin_tone": false
+      },
+      {
+        "id": "smileys_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/smileys_emotions/"
+        },
+        "keywords": [],
+        "has_skin_tone": false
+      },
+      {
+        "id": "smileys_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/smileys_emotions/"
+        },
+        "keywords": [],
+        "has_skin_tone": false
+      },
+      {
+        "id": "smileys_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/smileys_emotions/"
+        },
+        "keywords": [],
+        "has_skin_tone": false
+      },
+      {
+        "id": "smileys_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/smileys_emotions/"
+        },
+        "keywords": [],
+        "has_skin_tone": false
+      },
+      {
+        "id": "smileys_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/smileys_emotions/"
+        },
+        "keywords": [],
+        "has_skin_tone": false
+      },
+      {
+        "id": "smileys_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/smileys_emotions/"
+        },
+        "keywords": [],
+        "has_skin_tone": false
+      }
+    ]
+  },
+  {
+    "category": "people_body",
+    "ux_title": {
+      "de": "Menschen & Körper",
+      "en": "People & Body"
+    },
+    "emojis": [
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/",
+          "light": "assets/icons/emojis/people_body/",
+          "medium_light": "assets/icons/emojis/people_body/",
+          "medium": "assets/icons/emojis/people_body/",
+          "medium_dark": "assets/icons/emojis/people_body/",
+          "dark": "assets/icons/emojis/people_body/"
+        },
+        "keywords": [],
+        "has_skin_tone": true
+      }
+    ]
+  },
+  {
+    "category": "animals_nature",
+    "ux_title": {
+      "de": "Tiere & Natur",
+      "en": "Animals & Nature"
+    },
+    "emojis": [
+      {
+        "id": "animals_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/animals_nature/"
+        },
+        "keywords": [],
+        "has_skin_tone": false
+      }
+    ]
+  },
+  {
+    "category": "food_drink",
+    "ux_title": {
+      "de": "Essen & Trinken",
+      "en": "Food & Drink"
+    },
+    "emojis": [
+      {
+        "id": "food_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/food_drink/"
+        },
+        "keywords": [],
+        "has_skin_tone": false
+      }
+    ]
+  },
+  {
+    "category": "activities",
+    "ux_title": {
+      "de": "Aktivitäten & Sport",
+      "en": "Activities & Sport"
+    },
+    "emojis": [
+      {
+        "id": "activities_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/activities/"
+        },
+        "keywords": [],
+        "has_skin_tone": false
+      }
+    ]
+  },
+  {
+    "category": "objects",
+    "ux_title": {
+      "de": "Objekte",
+      "en": "Objects"
+    },
+    "emojis": [
+      {
+        "id": "objects_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/objects/"
+        },
+        "keywords": [],
+        "has_skin_tone": false
+      }
+    ]
+  },
+  {
+    "category": "travel_places",
+    "ux_title": {
+      "de": "Reisen & Orte",
+      "en": "Travel & Places"
+    },
+    "emojis": [
+      {
+        "id": "travel_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/travel_places/"
+        },
+        "keywords": [],
+        "has_skin_tone": false
+      }
+    ]
+  },
+  {
+    "category": "symbols",
+    "ux_title": {
+      "de": "Symbole",
+      "en": "Symbols"
+    },
+    "emojis": [
+      {
+        "id": "symbols_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/symbols/"
+        },
+        "keywords": [],
+        "has_skin_tone": false
+      }
+    ]
+  },
+  {
+    "category": "flags",
+    "ux_title": {
+      "de": "Flaggen",
+      "en": "Flags"
+    },
+    "emojis": [
       {
         "id": "flags_0002",
         "name": {
@@ -26,7 +908,9 @@
           "de": "Flagge von Antigua & Barbuda",
           "en": "Flag of Antigua & Barbuda"
         },
-        "file": "assets/icons/emojis/flags/1f1e6-1f1ec.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e6-1f1ec.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -39,7 +923,9 @@
           "de": "Flagge von Andorra",
           "en": "Flag of Andorra"
         },
-        "file": "assets/icons/emojis/flags/1f1e6-1f1e9.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e6-1f1e9.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -52,7 +938,9 @@
           "de": "Flagge der Vereinigten Arabischen Emirate",
           "en": "Flag United Arab Emirates"
         },
-        "file": "assets/icons/emojis/flags/1f1e6-1f1ea.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e6-1f1ea.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -65,7 +953,9 @@
           "de": "Flagge von Afghanistan",
           "en": "Flag of Afghanistan"
         },
-        "file": "assets/icons/emojis/flags/1f1e6-1f1eb.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e6-1f1eb.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -78,7 +968,9 @@
           "de": "Flagge von Anguilla",
           "en": "Flag of Anguilla"
         },
-        "file": "assets/icons/emojis/flags/1f1e6-1f1ee.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e6-1f1ee.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -91,7 +983,9 @@
           "de": "Flagge von Albanien",
           "en": "Flag of Albania"
         },
-        "file": "assets/icons/emojis/flags/1f1e6-1f1f1.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e6-1f1f1.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -104,7 +998,7 @@
           "de": "Flagge von Armenien",
           "en": "Flag of Armenia"
         },
-        "file": "assets/icons/emojis/flags/1f1e6-1f1f2.svg",
+        "files": "assets/icons/emojis/flags/1f1e6-1f1f2.svg",
         "has_skin_tone": false
       },
       {
@@ -117,7 +1011,9 @@
           "de": "Flagge von Angola",
           "en": "Flag of Angola"
         },
-        "file": "assets/icons/emojis/flags/1f1e6-1f1f4.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e6-1f1f4.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -130,7 +1026,9 @@
           "de": "Flagge der Antarktis",
           "en": "Flag of Antarctica"
         },
-        "file": "assets/icons/emojis/flags/1f1e6-1f1f6.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e6-1f1f6.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -143,7 +1041,9 @@
           "de": "Flagge von Argentinien",
           "en": "Flag of Argentina"
         },
-        "file": "assets/icons/emojis/flags/1f1e6-1f1f7.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e6-1f1f7.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -156,7 +1056,9 @@
           "de": "Flagge von Samoa",
           "en": "Flag of Samoa"
         },
-        "file": "assets/icons/emojis/flags/1f1e6-1f1f8.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e6-1f1f8.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -169,7 +1071,9 @@
           "de": "Flagge von Österreich",
           "en": "Flag of Austria"
         },
-        "file": "assets/icons/emojis/flags/1f1e6-1f1f9.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e6-1f1f9.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -182,7 +1086,9 @@
           "de": "Flagge von Australien",
           "en": "Flag of Australia"
         },
-        "file": "assets/icons/emojis/flags/1f1e6-1f1fa.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e6-1f1fa.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -195,7 +1101,9 @@
           "de": "Flagge von Aruba",
           "en": "Flag of Aruba"
         },
-        "file": "assets/icons/emojis/flags/1f1e6-1f1fc.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e6-1f1fc.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -208,7 +1116,9 @@
           "de": "Flagge der Åland-Inseln",
           "en": "Flag of the Åland Islands"
         },
-        "file": "assets/icons/emojis/flags/1f1e6-1f1fd.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e6-1f1fd.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -221,7 +1131,9 @@
           "de": "Flagge von Aserbaidschan",
           "en": "Flag of Azerbaijan"
         },
-        "file": "assets/icons/emojis/flags/1f1e6-1f1ff.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e6-1f1ff.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -234,7 +1146,9 @@
           "de": "Flagge von Bosnien und Herzegowina",
           "en": "Flag of Bosnia and Herzegovina"
         },
-        "file": "assets/icons/emojis/flags/1f1e7-1f1e6.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e7-1f1e6.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -247,7 +1161,9 @@
           "de": "Flagge von Barbados",
           "en": "Flagge von Barbados"
         },
-        "file": "assets/icons/emojis/flags/1f1e7-1f1e7.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e7-1f1e7.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -260,7 +1176,9 @@
           "de": "Flagge von Bangladesch",
           "en": "Flag of Bangladesh"
         },
-        "file": "assets/icons/emojis/flags/1f1e7-1f1e9.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e7-1f1e9.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -273,7 +1191,9 @@
           "de": "Flagge von Belgien",
           "en": "Flag of Belgium"
         },
-        "file": "assets/icons/emojis/flags/1f1e7-1f1ea.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e7-1f1ea.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -286,7 +1206,9 @@
           "de": "Flagge von Burkina Faso",
           "en": "Flag of Burkina Faso"
         },
-        "file": "assets/icons/emojis/flags/1f1e7-1f1eb.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e7-1f1eb.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -299,7 +1221,9 @@
           "de": "Flagge von Bulgarien",
           "en": "Flag of Bulgaria"
         },
-        "file": "assets/icons/emojis/flags/1f1e7-1f1ec.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e7-1f1ec.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -312,7 +1236,9 @@
           "de": "Flagge von Bahrain",
           "en": "Flag of Bahrain"
         },
-        "file": "assets/icons/emojis/flags/1f1e7-1f1ed.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e7-1f1ed.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -325,7 +1251,9 @@
           "de": "Flagge von Burundi",
           "en": "Flag of Burundi"
         },
-        "file": "assets/icons/emojis/flags/1f1e7-1f1ee.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e7-1f1ee.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -338,7 +1266,9 @@
           "de": "Flagge von Benin",
           "en": "Flag of Benin"
         },
-        "file": "assets/icons/emojis/flags/1f1e7-1f1ef.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e7-1f1ef.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -351,7 +1281,9 @@
           "de": "Flagge von Saint-Barthélemy",
           "en": "Flag of Saint-Barthélemy"
         },
-        "file": "assets/icons/emojis/flags/1f1e7-1f1f1.svg",
+        "files": {
+          "de": "assets/icons/emojis/flags/1f1e7-1f1f1.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -364,7 +1296,9 @@
           "de": "Flagge von Bermuda",
           "en": "Flag of Bermuda"
         },
-        "file": "assets/icons/emojis/flags/1f1e7-1f1f2.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e7-1f1f2.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -377,7 +1311,9 @@
           "de": "Flagge von Brunei",
           "en": "Flag of Brunei"
         },
-        "file": "assets/icons/emojis/flags/1f1e7-1f1f3.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e7-1f1f3.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -390,7 +1326,9 @@
           "de": "Flagge von Bolivien",
           "en": "Flag of Bolivia"
         },
-        "file": "assets/icons/emojis/flags/1f1e7-1f1f4.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e7-1f1f4.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -403,7 +1341,9 @@
           "de": "Flagge der Karibischen Niederlande",
           "en": "Flag of the Caribbean Netherlands"
         },
-        "file": "assets/icons/emojis/flags/1f1e7-1f1f6.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e7-1f1f6.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -416,7 +1356,9 @@
           "de": "Flagge von Brasilien",
           "en": "Flag of Brazil"
         },
-        "file": "assets/icons/emojis/flags/1f1e7-1f1f7.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e7-1f1f7.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -429,7 +1371,9 @@
           "de": "Flagge der Bahamas",
           "en": "Flag of the Bahamas"
         },
-        "file": "assets/icons/emojis/flags/1f1e7-1f1f8.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e7-1f1f8.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -442,7 +1386,9 @@
           "de": "Flagge von Buthan",
           "en": "Flag of Buthan"
         },
-        "file": "assets/icons/emojis/flags/1f1e7-1f1f9.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e7-1f1f9.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -455,7 +1401,9 @@
           "de": "Flagge der Bouvetinsel",
           "en": "Flag of Bouvet Island"
         },
-        "file": "assets/icons/emojis/flags/1f1e7-1f1fb.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e7-1f1fb.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -468,7 +1416,9 @@
           "de": "Flagge von Botswana",
           "en": "Flag of Botswana"
         },
-        "file": "assets/icons/emojis/flags/1f1e7-1f1fc.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e7-1f1fc.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -481,7 +1431,9 @@
           "de": "Flagge von Belarus",
           "en": "Flag of Belarus"
         },
-        "file": "assets/icons/emojis/flags/1f1e7-1f1fe.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e7-1f1fe.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -494,7 +1446,9 @@
           "de": "Flagge von Belize",
           "en": "Flag of Belize"
         },
-        "file": "assets/icons/emojis/flags/1f1e7-1f1ff.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e7-1f1ff.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -507,7 +1461,9 @@
           "de": "Flagge von Kanada",
           "en": "Flag of Canada"
         },
-        "file": "assets/icons/emojis/flags/1f1e8-1f1e6.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e8-1f1e6.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -520,7 +1476,9 @@
           "de": "Flagge der Kokosinseln",
           "en": "Flag of the Cocos Islands"
         },
-        "file": "assets/icons/emojis/flags/1f1e8-1f1e8.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e8-1f1e8.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -533,7 +1491,9 @@
           "de": "Flagge des Kongo",
           "en": "Flag of Congo"
         },
-        "file": "assets/icons/emojis/flags/1f1e8-1f1e9.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e8-1f1e9.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -546,7 +1506,9 @@
           "de": "Flagge der Republik Zentralafrika",
           "en": "Flag of the Central African Republic"
         },
-        "file": "assets/icons/emojis/flags/1f1e8-1f1eb.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e8-1f1eb.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -559,7 +1521,9 @@
           "de": "Flagge des Kongo",
           "en": "Flag of Congo"
         },
-        "file": "assets/icons/emojis/flags/1f1e8-1f1ec.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e8-1f1ec.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -572,7 +1536,9 @@
           "de": "Flagge der Schweiz",
           "en": "Flag of Switzerland"
         },
-        "file": "assets/icons/emojis/flags/1f1e8-1f1ed.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e8-1f1ed.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -585,7 +1551,9 @@
           "de": "Flagge der Elfenbeinküste",
           "en": "Flag of Côte d'Ivoire"
         },
-        "file": "assets/icons/emojis/flags/1f1e8-1f1ee.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e8-1f1ee.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -598,7 +1566,9 @@
           "de": "Flagge der Cook-Inseln",
           "en": "Flag of the Cook Islands"
         },
-        "file": "assets/icons/emojis/flags/1f1e8-1f1f0.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e8-1f1f0.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -611,7 +1581,9 @@
           "de": "Flagge von Chile",
           "en": "Flag of Chile"
         },
-        "file": "assets/icons/emojis/flags/1f1e8-1f1f1.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e8-1f1f1.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -624,7 +1596,9 @@
           "de": "Flagge von Kamerun",
           "en": "Flag of Cameroon"
         },
-        "file": "assets/icons/emojis/flags/1f1e8-1f1f2.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e8-1f1f2.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -637,7 +1611,9 @@
           "de": "Flagge von China",
           "en": "Flag of China"
         },
-        "file": "assets/icons/emojis/flags/1f1e8-1f1f3.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e8-1f1f3.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -650,7 +1626,9 @@
           "de": "Flagge von Kolumbien",
           "en": "Flag of Colombia"
         },
-        "file": "assets/icons/emojis/flags/1f1e8-1f1f4.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e8-1f1f4.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -663,7 +1641,9 @@
           "de": "Flagge der Clipperton-Insel",
           "en": "Flag of Clipperton Island"
         },
-        "file": "assets/icons/emojis/flags/1f1e8-1f1f5.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e8-1f1f5.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -676,7 +1656,9 @@
           "de": "Flagge von Costa Rica",
           "en": "Flag of Costa Rica"
         },
-        "file": "assets/icons/emojis/flags/1f1e8-1f1f7.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e8-1f1f7.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -689,7 +1671,9 @@
           "de": "Flagge von Kuba",
           "en": "Flag of Cuba"
         },
-        "file": "assets/icons/emojis/flags/1f1e8-1f1fa.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e8-1f1fa.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -702,7 +1686,9 @@
           "de": "Flagge von Kap Verde",
           "en": "Flag of Cap Verde"
         },
-        "file": "assets/icons/emojis/flags/1f1e8-1f1fb.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e8-1f1fb.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -715,7 +1701,9 @@
           "de": "Flagge von Curaçao",
           "en": "Flag of Curaçao"
         },
-        "file": "assets/icons/emojis/flags/1f1e8-1f1fc.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e8-1f1fc.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -728,7 +1716,9 @@
           "de": "Flagge der Weihnachtsinsel",
           "en": "Flag of Christmas Island"
         },
-        "file": "assets/icons/emojis/flags/1f1e8-1f1fd.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e8-1f1fd.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -741,7 +1731,9 @@
           "de": "Flagge von Zypern",
           "en": "Flag of Cyprus"
         },
-        "file": "assets/icons/emojis/flags/1f1e8-1f1fe.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e8-1f1fe.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -754,7 +1746,9 @@
           "de": "Flagge von Tschechien",
           "en": "Flag of Czechia"
         },
-        "file": "assets/icons/emojis/flags/1f1e8-1f1ff.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e8-1f1ff.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -767,7 +1761,9 @@
           "de": "Flagge von Deutschland",
           "en": "Flag of Germany"
         },
-        "file": "assets/icons/emojis/flags/1f1e9-1f1ea.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e9-1f1ea.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -780,7 +1776,9 @@
           "de": "Flagge von Diego Garcia",
           "en": "Flag of Diego Garcia"
         },
-        "file": "assets/icons/emojis/flags/1f1e9-1f1ec.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e9-1f1ec.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -793,7 +1791,9 @@
           "de": "Flagge von Dschibuti",
           "en": "Flag of Djibouti"
         },
-        "file": "assets/icons/emojis/flags/1f1e9-1f1ef.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e9-1f1ef.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -806,7 +1806,9 @@
           "de": "Flagge von Dänemark",
           "en": "Flag of Denmark"
         },
-        "file": "assets/icons/emojis/flags/1f1e9-1f1f0.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e9-1f1f0.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -819,7 +1821,9 @@
           "de": "Flagge von Dominica",
           "en": "Flag of Dominica"
         },
-        "file": "assets/icons/emojis/flags/1f1e9-1f1f2.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e9-1f1f2.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -832,7 +1836,9 @@
           "de": "Flagge der Dominikanischen Republik",
           "en": "Flag of the Dominican Republic"
         },
-        "file": "assets/icons/emojis/flags/1f1e9-1f1f4.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e9-1f1f4.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -845,7 +1851,9 @@
           "de": "Flagge von Algerien",
           "en": "Flag of Algeria"
         },
-        "file": "assets/icons/emojis/flags/1f1e9-1f1ff.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1e9-1f1ff.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -858,7 +1866,9 @@
           "de": "Flagge von Ceuta & Melilla",
           "en": "Flag of Ceuta & Melilla"
         },
-        "file": "assets/icons/emojis/flags/1f1ea-1f1e6.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1ea-1f1e6.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -871,7 +1881,9 @@
           "de": "Flagge von Ecuador",
           "en": "Flag of Ecuador"
         },
-        "file": "assets/icons/emojis/flags/1f1ea-1f1e8.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1ea-1f1e8.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -884,7 +1896,9 @@
           "de": "Flagge von Estland",
           "en": "Flag of Estonia"
         },
-        "file": "assets/icons/emojis/flags/1f1ea-1f1ea.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1ea-1f1ea.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -894,7 +1908,9 @@
           "en": "Egypt"
         },
         "label": "Flag of Egypt",
-        "file": "assets/icons/emojis/flags/1f1ea-1f1ec.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1ea-1f1ec.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -907,7 +1923,9 @@
           "de": "Flagge von Westsahara",
           "en": "Flag of Western Sahara"
         },
-        "file": "assets/icons/emojis/flags/1f1ea-1f1ed.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1ea-1f1ed.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -920,7 +1938,9 @@
           "de": "Flagge von Eritrea",
           "en": "Flag of Eritrea"
         },
-        "file": "assets/icons/emojis/flags/1f1ea-1f1f7.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1ea-1f1f7.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -933,7 +1953,9 @@
           "de": "Flagge von Spanien",
           "en": "Flag of Spain"
         },
-        "file": "assets/icons/emojis/flags/1f1ea-1f1f8.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1ea-1f1f8.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -946,7 +1968,9 @@
           "de": "Flagge von Äthiopien",
           "en": "Flag of Ethiopia"
         },
-        "file": "assets/icons/emojis/flags/1f1ea-1f1f9.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1ea-1f1f9.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -959,7 +1983,9 @@
           "de": "Flagge der Europäischen Union",
           "en": "Flag of the European Union"
         },
-        "file": "assets/icons/emojis/flags/1f1ea-1f1fa.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1ea-1f1fa.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -972,7 +1998,9 @@
           "de": "Flagge von Finnland",
           "en": "Flag of Finland"
         },
-        "file": "assets/icons/emojis/flags/1f1eb-1f1ee.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1eb-1f1ee.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -985,7 +2013,9 @@
           "de": "Flagge von Fidschi",
           "en": "Flag of Fiji"
         },
-        "file": "assets/icons/emojis/flags/1f1eb-1f1ef.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1eb-1f1ef.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -998,7 +2028,9 @@
           "de": "Flagge der Falkland-Inseln",
           "en": "Flag of the Falkland Islands"
         },
-        "file": "assets/icons/emojis/flags/1f1eb-1f1f0.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1eb-1f1f0.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -1011,7 +2043,9 @@
           "de": "Flagge von Mikronesien",
           "en": "Flag of Micronesia"
         },
-        "file": "assets/icons/emojis/flags/1f1eb-1f1f2.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1eb-1f1f2.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -1024,7 +2058,9 @@
           "de": "Flagge der Färöer-Inseln",
           "en": "Flag of the Faroe Islands"
         },
-        "file": "assets/icons/emojis/flags/1f1eb-1f1f4.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1eb-1f1f4.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -1037,7 +2073,9 @@
           "de": "Flagge von Frankreich",
           "en": "Flag of France"
         },
-        "file": "assets/icons/emojis/flags/1f1eb-1f1f7.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1eb-1f1f7.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -1050,7 +2088,9 @@
           "de": "Flagge von Gabun",
           "en": "Flag of Gabon"
         },
-        "file": "assets/icons/emojis/flags/1f1ec-1f1e6.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1ec-1f1e6.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -1063,7 +2103,9 @@
           "de": "Flagge des vereinigten Königreichs",
           "en": "Flag of the United Kingdom"
         },
-        "file": "assets/icons/emojis/flags/1f1ec-1f1e7.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1ec-1f1e7.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -1076,7 +2118,9 @@
           "de": "Flagge von Grenada",
           "en": "Flag of Grenada"
         },
-        "file": "assets/icons/emojis/flags/1f1ec-1f1e9.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1ec-1f1e9.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -1089,7 +2133,9 @@
           "de": "Flagge von Georgien",
           "en": "Flag of Georgia"
         },
-        "file": "assets/icons/emojis/flags/1f1ec-1f1ea.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1ec-1f1ea.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -1102,7 +2148,9 @@
           "de": "Flagge von Französisch-Guayana",
           "en": "Flag of French Guiana"
         },
-        "file": "assets/icons/emojis/flags/1f1ec-1f1eb.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1ec-1f1eb.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -1115,7 +2163,9 @@
           "de": "Flagge von Guernsey",
           "en": "Flag of Guernsey"
         },
-        "file": "assets/icons/emojis/flags/1f1ec-1f1ec.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1ec-1f1ec.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -1128,7 +2178,9 @@
           "de": "Flagge von Ghana",
           "en": "Flag of Ghana"
         },
-        "file": "assets/icons/emojis/flags/1f1ec-1f1ed.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1ec-1f1ed.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -1141,7 +2193,9 @@
           "de": "Flagge von Gibraltar",
           "en": "Flag of Gibraltar"
         },
-        "file": "assets/icons/emojis/flags/1f1ec-1f1ee.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1ec-1f1ee.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -1154,7 +2208,9 @@
           "de": "Flagge von Grönland",
           "en": "Flag of Greeland"
         },
-        "file": "assets/icons/emojis/flags/1f1ec-1f1f1.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1ec-1f1f1.svg"
+        },
         "has_skin_tone": false
       },
       {
@@ -1167,1183 +2223,2625 @@
           "de": "Flagge von Gambia",
           "en": "Flag of Gambia"
         },
-        "file": "assets/icons/emojis/flags/1f1ec-1f1f2.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1ec-1f1f2.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0091",
-        "name": "Guinea",
-        "label": "Flag of Guinea",
-        "file": "assets/icons/emojis/flags/1f1ec-1f1f3.svg",
+        "name": {
+          "de": "Guinea",
+          "en": "Guinea"
+        },
+        "label": {
+          "de": "Flagge von Guinea",
+          "en": "Flag of Guinea"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1ec-1f1f3.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0092",
-        "name": "Guadeloupe",
-        "label": "Flag of Guadeloupe",
-        "file": "assets/icons/emojis/flags/1f1ec-1f1f5.svg",
+        "name": {
+          "de": "Guadeloupe",
+          "en": "Guadeloupe"
+        },
+        "label": {
+          "de": "Flagge von Goadeloupe",
+          "en": "Flag of Guadeloupe"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1ec-1f1f5.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0093",
-        "name": "Equatorial Guinea",
-        "label": "Flag of Equatorial Guinea",
-        "file": "assets/icons/emojis/flags/1f1ec-1f1f6.svg",
+        "name": {
+          "de": "Äquatorialguiena",
+          "en": "Equatorial Guinea"
+        },
+        "label": {
+          "de": "Flagge von Äquatorialguinea",
+          "en": "Flag of Equatorial Guinea"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1ec-1f1f6.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0094",
-        "name": "Greece",
-        "label": "Flag of Greece",
-        "file": "assets/icons/emojis/flags/1f1ec-1f1f7.svg",
+        "name": {
+          "de": "Griechenland",
+          "en": "Greece"
+        },
+        "label": {
+          "de": "Flagge von Griechenland",
+          "en": "Flag of Greece"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1ec-1f1f7.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0095",
-        "name": "South Georgia & South Sandwich Islands",
-        "label": "Flag of South Georgia & South Sandwich Islands",
-        "file": "assets/icons/emojis/flags/1f1ec-1f1f8.svg",
+        "name": {
+          "de": "Südgeorgien und Südliche Sandwichinseln",
+          "en": "South Georgia & South Sandwich Islands"
+        },
+        "label": {
+          "de": "Flagge von Südgeorgien und den Südlichen Sandwichinseln",
+          "en": "Flag of South Georgia & South Sandwich Islands"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1ec-1f1f8.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0096",
-        "name": "Guatemala",
-        "label": "Flag of Guatemala",
-        "file": "assets/icons/emojis/flags/1f1ec-1f1f9.svg",
+        "name": {
+          "de": "Guatemala",
+          "en": "Guatemala"
+        },
+        "label": {
+          "de": "Flagge von Guatemala",
+          "en": "Flag of Guatemala"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1ec-1f1f9.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0097",
-        "name": "Guam",
-        "label": "Flag of Guam",
-        "file": "assets/icons/emojis/flags/1f1ec-1f1fa.svg",
+        "name": {
+          "de": "Guam",
+          "en": "Guam"
+        },
+        "label": {
+          "de": "Flagge von Guam",
+          "en": "Flag of Guam"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1ec-1f1fa.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0098",
-        "name": "Guinea-Bissau",
-        "label": "Flag of Guinea-Bissau",
-        "file": "assets/icons/emojis/flags/1f1ec-1f1fc.svg",
+        "name": {
+          "de": "Guinea-Bissau",
+          "en": "Guinea-Bissau"
+        },
+        "label": {
+          "de": "Flagge von Guinea-Bissau",
+          "en": "Flag of Guinea-Bissau"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1ec-1f1fc.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0099",
-        "name": "Guyana",
-        "label": "Flag of Guyana",
-        "file": "assets/icons/emojis/flags/1f1ec-1f1fe.svg",
+        "name": {
+          "de": "Guyana",
+          "en": "Guyana"
+        },
+        "label": {
+          "de": "Flagge von Guyana",
+          "en": "Flag of Guyana"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1ec-1f1fe.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0100",
-        "name": "Hong Kong SAR China",
-        "label": "Flag of Hong Kong SAR China",
-        "file": "assets/icons/emojis/flags/1f1ed-1f1f0.svg",
+        "name": {
+          "de": "Hong Kong SVZ China",
+          "en": "Hong Kong SAR China"
+        },
+        "label": {
+          "de": "Flagge von Hong Kong",
+          "en": "Flag of Hong Kong"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1ed-1f1f0.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0101",
-        "name": "Heard & McDonald Islands",
-        "label": "Flag of Heard & McDonald Islands",
-        "file": "assets/icons/emojis/flags/1f1ed-1f1f2.svg",
+        "name": {
+          "de": "Heard und McDonaldinseln",
+          "en": "Heard & McDonald Islands"
+        },
+        "label": {
+          "de": "Flagge von Heard und den McDonaldinseln",
+          "en": "Flag of Heard & McDonald Islands"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1ed-1f1f2.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0102",
-        "name": "Honduras",
-        "label": "Flag of Honduras",
-        "file": "assets/icons/emojis/flags/1f1ed-1f1f3.svg",
+        "name": {
+          "de": "Honduras",
+          "en": "Honduras"
+        },
+        "label": {
+          "de": "Flagge von Honduras",
+          "en": "Flag of Honduras"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1ed-1f1f3.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0103",
-        "name": "Croatia",
-        "label": "Flag of Croatia",
-        "file": "assets/icons/emojis/flags/1f1ed-1f1f7.svg",
+        "name": {
+          "de": "Kroatien",
+          "en": "Croatia"
+        },
+        "label": {
+          "de": "Flagge von Kroatien",
+          "en": "Flag of Croatia"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1ed-1f1f7.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0104",
-        "name": "Haiti",
-        "label": "Flag of Haiti",
-        "file": "assets/icons/emojis/flags/1f1ed-1f1f9.svg",
+        "name": {
+          "de": "Haiti",
+          "en": "Haiti"
+        },
+        "label": {
+          "de": "Flagge von Haiti",
+          "en": "Flag of Haiti"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1ed-1f1f9.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0105",
-        "name": "Hungary",
-        "label": "Flag of Hungary",
-        "file": "assets/icons/emojis/flags/1f1ed-1f1fa.svg",
+        "name": {
+          "de": "Ungarn",
+          "en": "Hungary"
+        },
+        "label": {
+          "de": "Flagge von Ungarn",
+          "en": "Flag of Hungary"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1ed-1f1fa.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0106",
-        "name": "The Canary Islands",
-        "label": "Flag of the Canary Islands",
-        "file": "assets/icons/emojis/flags/1f1ee-1f1e8.svg",
+        "name": {
+          "de": "Die Kanarischen Inseln",
+          "en": "The Canary Islands"
+        },
+        "label": {
+          "de": "Flagge der Kanarischen Inseln",
+          "en": "Flag of the Canary Islands"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1ee-1f1e8.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0107",
-        "name": "Indonesia",
-        "label": "Flag of Indonesia",
-        "file": "assets/icons/emojis/flags/1f1ee-1f1e9.svg",
+        "name": {
+          "de": "Indonesien",
+          "en": "Indonesia"
+        },
+        "label": {
+          "de": "Flagge von Indonesien",
+          "en": "Flag of Indonesia"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1ee-1f1e9.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0108",
-        "name": "Ireland",
-        "label": "Flag of Ireland",
-        "file": "assets/icons/emojis/flags/1f1ee-1f1ea.svg",
+        "name": {
+          "de": "Irland",
+          "en": "Ireland"
+        },
+        "label": {
+          "de": "Flagge von Irland",
+          "en": "Flag of Ireland"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1ee-1f1ea.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0109",
-        "name": "Israel",
-        "label": "Flag of Israel",
-        "file": "assets/icons/emojis/flags/1f1ee-1f1f1.svg",
+        "name": {
+          "de": "Israel",
+          "en": "Israel"
+        },
+        "label": {
+          "de": "Flagge von Israel",
+          "en": "Flag of Israel"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1ee-1f1f1.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0110",
-        "name": "The Isle of Man",
-        "label": "Flag of the Isle of Man",
-        "file": "assets/icons/emojis/flags/1f1ee-1f1f2.svg",
+        "name": {
+          "de": "Die Isle of Man",
+          "en": "The Isle of Man"
+        },
+        "label": {
+          "de": "Flagge der Isle of Man",
+          "en": "Flag of the Isle of Man"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1ee-1f1f2.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0111",
-        "name": "India",
-        "label": "Flag of India",
-        "file": "assets/icons/emojis/flags/1f1ee-1f1f3.svg",
+        "name": {
+          "de": "Indien",
+          "en": "India"
+        },
+        "label": {
+          "de": "Flagge von Indien",
+          "en": "Flag of India"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1ee-1f1f3.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0112",
-        "name": "The British Indian Ocean Territory",
-        "label": "Flag of the British Indian Ocean Territory",
-        "file": "assets/icons/emojis/flags/1f1ee-1f1f4.svg",
+        "name": {
+          "de": "Britisches Territorium im Indischen Ozean",
+          "en": "The British Indian Ocean Territory"
+        },
+        "label": {
+          "de": "Flagge des Britischen Territoriums im Indischen Ozean",
+          "en": "Flag of the British Indian Ocean Territory"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1ee-1f1f4.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0113",
-        "name": "Iraq",
-        "label": "Flag of Iraq",
-        "file": "assets/icons/emojis/flags/1f1ee-1f1f6.svg",
+        "name": {
+          "de": "Irak",
+          "en": "Iraq"
+        },
+        "label": {
+          "de": "Flagge des Irak",
+          "en": "Flag of Iraq"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1ee-1f1f6.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0114",
-        "name": "Iran",
-        "label": "Flag of Iran",
-        "file": "assets/icons/emojis/flags/1f1ee-1f1f7.svg",
+        "name": {
+          "de": "Iran",
+          "en": "Iran"
+        },
+        "label": {
+          "de": "Flagge des Iran",
+          "en": "Flag of Iran"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1ee-1f1f7.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0115",
-        "name": "Iceland",
-        "label": "Flag of Iceland",
-        "file": "assets/icons/emojis/flags/1f1ee-1f1f8.svg",
+        "name": {
+          "de": "Island",
+          "en": "Iceland"
+        },
+        "label": {
+          "de": "Flagge von Island",
+          "en": "Flag of Iceland"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1ee-1f1f8.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0116",
-        "name": "Italy",
-        "label": "Flag of Italy",
-        "file": "assets/icons/emojis/flags/1f1ee-1f1f9.svg",
+        "name": {
+          "de": "Italien",
+          "en": "Italy"
+        },
+        "label": {
+          "de": "Flagge von Italien",
+          "en": "Flag of Italy"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1ee-1f1f9.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0117",
-        "name": "Jersey",
-        "label": "Flag of Jersey",
-        "file": "assets/icons/emojis/flags/1f1ef-1f1ea.svg",
+        "name": {
+          "de": "Jersey",
+          "en": "Jersey"
+        },
+        "label": {
+          "de": "Flagge von Jersey",
+          "en": "Flag of Jersey"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1ef-1f1ea.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0118",
-        "name": "Jamaica",
-        "label": "Flag of Jamaica",
-        "file": "assets/icons/emojis/flags/1f1ef-1f1f2.svg",
+        "name": {
+          "de": "Jamaika",
+          "en": "Jamaica"
+        },
+        "label": {
+          "de": "Flagge von Jamaika",
+          "en": "Flag of Jamaica"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1ef-1f1f2.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0119",
-        "name": "Jordan",
-        "label": "Flag of Jordan",
-        "file": "assets/icons/emojis/flags/1f1ef-1f1f4.svg",
+        "name": {
+          "de": "Jordanien",
+          "en": "Jordan"
+        },
+        "label": {
+          "de": "Flagge von Jordanien",
+          "en": "Flag of Jordan"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1ef-1f1f4.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0120",
-        "name": "Japan",
-        "label": "Flag of Japan",
-        "file": "assets/icons/emojis/flags/1f1ef-1f1f5.svg",
+        "name": {
+          "de": "Japan",
+          "en": "Japan"
+        },
+        "label": {
+          "de": "Flagge von Japan",
+          "en": "Flag of Japan"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1ef-1f1f5.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0121",
-        "name": "Kenya",
-        "label": "Flag of Kenya",
-        "file": "assets/icons/emojis/flags/1f1f0-1f1ea.svg",
+        "name": {
+          "de": "Kenia",
+          "en": "Kenya"
+        },
+        "label": {
+          "de": "Flagge von Kenia",
+          "en": "Flag of Kenya"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f0-1f1ea.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0122",
-        "name": "Kyrgyztan",
-        "label": "Flag of Kyrgyztan",
-        "file": "assets/icons/emojis/flags/1f1f0-1f1ec.svg",
+        "name": {
+          "de": "Kirgisistan",
+          "en": "Kyrgyztan"
+        },
+        "label": {
+          "de": "Kirgisistan",
+          "en": "Flag of Kyrgyztan"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f0-1f1ec.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0123",
-        "name": "Cambodia",
-        "label": "Flag of Cambodia",
-        "file": "assets/icons/emojis/flags/1f1f0-1f1ed.svg",
+        "name": {
+          "de": "Kambodscha",
+          "en": "Cambodia"
+        },
+        "label": {
+          "de": "Flagge von Kambodscha",
+          "en": "Flag of Cambodia"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f0-1f1ed.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0124",
-        "name": "Kiribati",
-        "label": "Flag of Kiribati",
-        "file": "assets/icons/emojis/flags/1f1f0-1f1ee.svg",
+        "name": {
+          "de": "Kiribati",
+          "en": "Kiribati"
+        },
+        "label": {
+          "de": "Flagge von Kiribati",
+          "en": "Flag of Kiribati"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f0-1f1ee.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0125",
-        "name": "Comoros",
-        "label": "Flag of Comoros",
-        "file": "assets/icons/emojis/flags/1f1f0-1f1f2.svg",
+        "name": {
+          "de": "Komoren",
+          "en": "Comoros"
+        },
+        "label": {
+          "de": "Flagge der Komoren",
+          "en": "Flag of Comoros"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f0-1f1f2.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0126",
-        "name": "St. Kitts & Nevis",
-        "label": "Flag of St. Kitts & Nevis",
-        "file": "assets/icons/emojis/flags/1f1f0-1f1f3.svg",
+        "name": {
+          "de": "St. Kitts & Nevis",
+          "en": "St. Kitts & Nevis"
+        },
+        "label": {
+          "de": "Flagge von St. Kitts & Nevis",
+          "en": "Flag of St. Kitts & Nevis"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f0-1f1f3.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0127",
-        "name": "North Korea",
-        "label": "Flag of North Korea",
-        "file": "assets/icons/emojis/flags/1f1f0-1f1f5.svg",
+        "name": {
+          "de": "Nordkorea",
+          "en": "North Korea"
+        },
+        "label": {
+          "de": "Flagge von Nordkorea",
+          "en": "Flag of North Korea"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f0-1f1f5.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0128",
-        "name": "South Korea",
+        "name": {
+          "de": "Südkorea",
+          "en": "South Korea"
+        },
         "label": "Flag of South Korea",
-        "file": "assets/icons/emojis/flags/1f1f0-1f1f7.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f0-1f1f7.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0129",
-        "name": "Kuwait",
-        "label": "Flag of Kuwait",
-        "file": "assets/icons/emojis/flags/1f1f0-1f1fc.svg",
+        "name": {
+          "de": "Kuwait",
+          "en": "Kuwait"
+        },
+        "label": {
+          "de": "Flagge von Kuweit",
+          "en": "Flag of Kuwait"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f0-1f1fc.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0130",
-        "name": "The Cayman Islands",
-        "label": "Flag of the Cayman Islands",
-        "file": "assets/icons/emojis/flags/1f1f0-1f1fe.svg",
+        "name": {
+          "de": "Die Cayman-Inseln",
+          "en": "The Cayman Islands"
+        },
+        "label": {
+          "de": "Flagge der Cayman-Inseln",
+          "en": "Flag of the Cayman Islands"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f0-1f1fe.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0131",
-        "name": "Kazahkhstan",
-        "label": "Flag of Kazahkhstan",
-        "file": "assets/icons/emojis/flags/1f1f0-1f1ff.svg",
+        "name": {
+          "de": "Kasachstan",
+          "en": "Kazahkhstan"
+        },
+        "label": {
+          "de": "Flagge von Kasachstan",
+          "en": "Flag of Kazahkhstan"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f0-1f1ff.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0132",
-        "name": "Laos",
-        "label": "Flag of Laos",
-        "file": "assets/icons/emojis/flags/1f1f1-1f1e6.svg",
+        "name": {
+          "de": "Laos",
+          "en": "Laos"
+        },
+        "label": {
+          "de": "Flagge von Laos",
+          "en": "Flag of Laos"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f1-1f1e6.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0133",
-        "name": "Lebanon",
-        "label": "Flag of Lebanon",
-        "file": "assets/icons/emojis/flags/1f1f1-1f1e7.svg",
+        "name": {
+          "de": "Libanon",
+          "en": "Lebanon"
+        },
+        "label": {
+          "de": "Flagge des Libanon",
+          "en": "Flag of Lebanon"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f1-1f1e7.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0134",
-        "name": "St. Lucia",
-        "label": "Flag of St. Lucia",
-        "file": "assets/icons/emojis/flags/1f1f1-1f1e8.svg",
+        "name": {
+          "de": "St. Lucia",
+          "en": "St. Lucia"
+        },
+        "label": {
+          "de": "Flag of St. Lucia",
+          "en": "Flag of St. Lucia"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f1-1f1e8.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0135",
-        "name": "Liechtenstein",
-        "label": "Flag of Liechtenstein",
-        "file": "assets/icons/emojis/flags/1f1f1-1f1ee.svg",
+        "name": {
+          "de": "Liechtenstein",
+          "en": "Liechtenstein"
+        },
+        "label": {
+          "de": "Flagge von Liechtenstein",
+          "en": "Flag of Liechtenstein"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f1-1f1ee.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0136",
-        "name": "Sri Lanka",
-        "label": "Flag of Sri Lanka",
-        "file": "assets/icons/emojis/flags/1f1f1-1f1f0.svg",
+        "name": {
+          "de": "Sri Lanka",
+          "en": "Sri Lanka"
+        },
+        "label": {
+          "de": "Flagge von Sri Lanka",
+          "en": "Flag of Sri Lanka"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f1-1f1f0.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0137",
-        "name": "Liberia",
-        "label": "Flag of Liberia",
-        "file": "assets/icons/emojis/flags/1f1f1-1f1f7.svg",
+        "name": {
+          "de": "Liberia",
+          "en": "Liberia"
+        },
+        "label": {
+          "de": "Flagge von Liberia",
+          "en": "Flag of Liberia"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f1-1f1f7.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0138",
-        "name": "Lesotho",
-        "label": "Flag of Lesotho",
-        "file": "assets/icons/emojis/flags/1f1f1-1f1f8.svg",
+        "name": {
+          "de": "Lesotho",
+          "en": "Lesotho"
+        },
+        "label": {
+          "de": "Flagge von Lesotho",
+          "en": "Flag of Lesotho"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f1-1f1f8.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0139",
-        "name": "Lithuania",
-        "label": "Flag of Lithuania",
-        "file": "assets/icons/emojis/flags/1f1f1-1f1f9.svg",
+        "name": {
+          "de": "Litauen",
+          "en": "Lithuania"
+        },
+        "label": {
+          "de": "Flagge von Litauen",
+          "en": "Flag of Lithuania"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f1-1f1f9.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0140",
-        "name": "Luxembourg",
-        "label": "Flag of Luxembourg",
-        "file": "assets/icons/emojis/flags/1f1f1-1f1fa.svg",
+        "name": {
+          "de": "Luxemburg",
+          "en": "Luxembourg"
+        },
+        "labels": {
+          "de": "Flagge von Luxemburg",
+          "en": "Flag of Luxembourg"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f1-1f1fa.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0141",
-        "name": "Latvia",
-        "label": "Flag of Latvia",
-        "file": "assets/icons/emojis/flags/1f1f1-1f1fb.svg",
+        "name": {
+          "de": "Lettland",
+          "en": "Latvia"
+        },
+        "label": {
+          "de": "Flagge von Lettland",
+          "en": "Flag of Latvia"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f1-1f1fb.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0142",
-        "name": "Libya",
-        "label": "Flag of Libya",
-        "file": "assets/icons/emojis/flags/1f1f1-1f1fe.svg",
+        "name": {
+          "de": "Libyen",
+          "en": "Libya"
+        },
+        "label": {
+          "de": "Flagge von Libyen",
+          "en": "Flag of Libya"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f1-1f1fe.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0143",
-        "name": "Morocco",
-        "label": "Flag of Morocco",
-        "file": "assets/icons/emojis/flags/1f1f2-1f1e6.svg",
+        "name": {
+          "de": "Marokko",
+          "en": "Morocco"
+        },
+        "label": {
+          "de": "Flagge von Marokko",
+          "en": "Flag of Morocco"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f2-1f1e6.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0144",
-        "name": "Monaco",
-        "label": "Flag of Monaco",
-        "file": "assets/icons/emojis/flags/1f1f2-1f1e8.svg",
+        "name": {
+          "de": "Monaco",
+          "en": "Monaco"
+        },
+        "label": {
+          "de": "Flagge von Monaco",
+          "en": "Flag of Monaco"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f2-1f1e8.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0145",
-        "name": "Moldova",
-        "label": "Flag of Moldova",
-        "file": "assets/icons/emojis/flags/1f1f2-1f1e9.svg",
+        "name": {
+          "de": "Republik Moldau",
+          "en": "Moldova"
+        },
+        "label": {
+          "de": "Flagge der Republik Moldau",
+          "en": "Flag of Moldova"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f2-1f1e9.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0146",
-        "name": "Montenegro",
-        "label": "Flag of Montenegro",
-        "file": "assets/icons/emojis/flags/1f1f2-1f1ea.svg",
+        "name": {
+          "de": "Montenegro",
+          "en": "Montenegro"
+        },
+        "label": {
+          "de": "Flagge von Montenegro",
+          "en": "Flag of Montenegro"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f2-1f1ea.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0147",
-        "name": "St. Martin",
-        "label": "Flag of St. Martin",
-        "file": "assets/icons/emojis/flags/1f1f2-1f1eb.svg",
+        "name": {
+          "de": "St. Martin",
+          "en": "St. Martin"
+        },
+        "label": {
+          "de": "Flagge von St. Martin",
+          "en": "Flag of St. Martin"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f2-1f1eb.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0148",
-        "name": "Madagascar",
-        "label": "Flag of Madagascar",
-        "file": "assets/icons/emojis/flags/1f1f2-1f1ec.svg",
+        "name": {
+          "de": "Madagascar",
+          "en": "Madagascar"
+        },
+        "label": {
+          "de": "Flagge von Madagascar",
+          "en": "Flag of Madagascar"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f2-1f1ec.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0149",
-        "name": "The Marshall Islands",
-        "label": "Flag of the Marshall Islands",
-        "file": "assets/icons/emojis/flags/1f1f2-1f1ed.svg",
+        "name": {
+          "de": "Die Marshallinseln",
+          "en": "The Marshall Islands"
+        },
+        "label": {
+          "de": "Flagge der Marshallinseln",
+          "en": "Flag of the Marshall Islands"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f2-1f1ed.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0150",
-        "name": "North Macedonia",
-        "label": "Flag of North Macedonia",
-        "file": "assets/icons/emojis/flags/1f1f2-1f1f0.svg",
+        "name": {
+          "de": "Nordmazedonien",
+          "en": "North Macedonia"
+        },
+        "label": {
+          "de": "Flagge von Nordmazedonien",
+          "en": "Flag of North Macedonia"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f2-1f1f0.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0151",
-        "name": "Mali",
-        "label": "Flag of Mali",
-        "file": "assets/icons/emojis/flags/1f1f2-1f1f1.svg",
+        "name": {
+          "de": "Mali",
+          "en": "Mali"
+        },
+        "label": {
+          "de": "Flagge von Mali",
+          "en": "Flag of Mali"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f2-1f1f1.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0152",
-        "name": "Myanmar",
-        "label": "Flag of Myanmar",
-        "file": "assets/icons/emojis/flags/1f1f2-1f1f2.svg",
+        "name": {
+          "de": "Myanmar",
+          "en": "Myanmar"
+        },
+        "label": {
+          "de": "Flagge von Myanmar",
+          "en": "Flag of Myanmar"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f2-1f1f2.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0153",
-        "name": "Mongolia",
-        "label": "Flag of Mongolia",
-        "file": "assets/icons/emojis/flags/1f1f2-1f1f3.svg",
+        "name": {
+          "de": "Mongolei",
+          "en": "Mongolia"
+        },
+        "label": {
+          "de": "Flagge der Mongolei",
+          "en": "Flag of Mongolia"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f2-1f1f3.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0154",
-        "name": "Macao SAR China",
-        "label": "Flag of Macao SAR China",
-        "file": "assets/icons/emojis/flags/1f1f2-1f1f4.svg",
+        "name": {
+          "de": "Macau",
+          "en": "Macao SAR China"
+        },
+        "label": {
+          "de": "Flagge von Macau",
+          "en": "Flag of Macao SAR China"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f2-1f1f4.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0155",
-        "name": "The Northern Mariana Islands",
-        "label": "Flag of the Northern Mariana Islands",
-        "file": "assets/icons/emojis/flags/1f1f2-1f1f5.svg",
+        "name": {
+          "de": "Nördliche Marianen",
+          "en": "The Northern Mariana Islands"
+        },
+        "label": {
+          "de": "Flagge der Nördlichen Marianen",
+          "en": "Flag of the Northern Mariana Islands"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f2-1f1f5.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0156",
-        "name": "Martinique",
-        "label": "Flag of Martinique",
-        "file": "assets/icons/emojis/flags/1f1f2-1f1f6.svg",
+        "name": {
+          "de": "Martinique",
+          "en": "Martinique"
+        },
+        "label": {
+          "de": "Flagge der Martinique",
+          "en": "Flag of Martinique"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f2-1f1f6.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0157",
-        "name": "Mauritania",
-        "label": "Flag of Mauritania",
-        "file": "assets/icons/emojis/flags/1f1f2-1f1f7.svg",
+        "name": {
+          "de": "Mauretanien",
+          "en": "Mauritania"
+        },
+        "label": {
+          "de": "Flagge von Mauretanien",
+          "en": "Flag of Mauritania"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f2-1f1f7.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0158",
-        "name": "Montserrat",
-        "label": "Flag of Montserrat",
-        "file": "assets/icons/emojis/flags/1f1f2-1f1f8.svg",
+        "name": {
+          "de": "Montserrat",
+          "en": "Montserrat"
+        },
+        "label": {
+          "de": "Flagge von Montserrat",
+          "en": "Flag of Montserrat"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f2-1f1f8.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0159",
-        "name": "Malta",
-        "label": "Flag of Malta",
-        "file": "assets/icons/emojis/flags/1f1f2-1f1f9.svg",
+        "name": {
+          "de": "Malta",
+          "en": "Malta"
+        },
+        "label": {
+          "de": "Flagge von Malta",
+          "en": "Flag of Malta"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f2-1f1f9.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0160",
-        "name": "Mauritius",
-        "label": "Flag of Mauritius",
-        "file": "assets/icons/emojis/flags/1f1f2-1f1fa.svg",
+        "name": {
+          "de": "Mauritius",
+          "en": "Mauritius"
+        },
+        "label": {
+          "de": "Flagge von Mauritius",
+          "en": "Flag of Mauritius"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f2-1f1fa.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0161",
-        "name": "Maldives",
-        "label": "Flag of Maldives",
-        "file": "assets/icons/emojis/flags/1f1f2-1f1fb.svg",
+        "name": {
+          "de": "Malediven",
+          "en": "Maldives"
+        },
+        "label": {
+          "de": "Flagge der Malediven",
+          "en": "Flag of Maldives"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f2-1f1fb.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0162",
-        "name": "Malawi",
-        "label": "Flag of Malawi",
-        "file": "assets/icons/emojis/flags/1f1f2-1f1fc.svg",
+        "name": {
+          "de": "Malawi",
+          "en": "Malawi"
+        },
+        "label": {
+          "de": "Flagge von Malawi",
+          "en": "Flag of Malawi"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f2-1f1fc.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0163",
-        "name": "Mexico",
-        "label": "Flag of Mexico",
-        "file": "assets/icons/emojis/flags/1f1f2-1f1fd.svg",
+        "name": {
+          "de": "Mexico",
+          "en": "Mexico"
+        },
+        "label": {
+          "de": "Flagge von Mexico",
+          "en": "Flag of Mexico"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f2-1f1fd.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0164",
-        "name": "Malaysia",
-        "label": "Flag of Malaysia",
-        "file": "assets/icons/emojis/flags/1f1f2-1f1fe.svg",
+        "name": {
+          "de": "Malaysia",
+          "en": "Malaysia"
+        },
+        "label": {
+          "de": "Flagge von Malaysia",
+          "en": "Flag of Malaysia"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f2-1f1fe.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0165",
-        "name": "Mozambique",
-        "label": "Flag of Mozambique",
-        "file": "assets/icons/emojis/flags/1f1f2-1f1ff.svg",
+        "name": {
+          "de": "Mosambik",
+          "en": "Mozambique"
+        },
+        "label": {
+          "de": "Flagge von Mosambik",
+          "en": "Flag of Mozambique"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f2-1f1ff.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0166",
-        "name": "Namibia",
-        "label": "Flag of Namibia",
-        "file": "assets/icons/emojis/flags/1f1f3-1f1e6.svg",
+        "name": {
+          "de": "Namibia",
+          "en": "Namibia"
+        },
+        "label": {
+          "de": "Flagge von Namibia",
+          "en": "Flag of Namibia"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f3-1f1e6.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0167",
-        "name": "New Caledonia",
-        "label": "Flag of New Caledonia",
-        "file": "assets/icons/emojis/flags/1f1f3-1f1e8.svg",
+        "name": {
+          "de": "Neukaledonien",
+          "en": "New Caledonia"
+        },
+        "label": {
+          "de": "Flagge von Neukaledonien",
+          "en": "Flag of New Caledonia"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f3-1f1e8.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0168",
-        "name": "Niger",
-        "label": "Flag of Niger",
-        "file": "assets/icons/emojis/flags/1f1f3-1f1ea.svg",
+        "name": {
+          "de": "Niger",
+          "en": "Niger"
+        },
+        "label": {
+          "de": "Flagge des Niger",
+          "en": "Flag of Niger"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f3-1f1ea.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0169",
-        "name": "Norfolk Island",
-        "label": "Flag of Norfolk Island",
-        "file": "assets/icons/emojis/flags/1f1f3-1f1eb.svg",
+        "name": {
+          "de": "Die Norfolkinsel",
+          "en": "Norfolk Island"
+        },
+        "label": {
+          "de": "Flagge der Norfolkinsel",
+          "en": "Flag of Norfolk Island"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f3-1f1eb.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0170",
-        "name": "Nigeria",
-        "label": "Flag of Nigeria",
-        "file": "assets/icons/emojis/flags/1f1f3-1f1ec.svg",
+        "name": {
+          "de": "Nigeria",
+          "en": "Nigeria"
+        },
+        "label": {
+          "de": "Flagge von Nigeria",
+          "en": "Flag of Nigeria"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f3-1f1ec.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0171",
-        "name": "Nicaragua",
-        "label": "Flag of Nicaragua",
-        "file": "assets/icons/emojis/flags/1f1f3-1f1ee.svg",
+        "name": {
+          "de": "Nicaragua",
+          "en": "Nicaragua"
+        },
+        "label": {
+          "de": "Flagge von Nicaragua",
+          "en": "Flag of Nicaragua"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f3-1f1ee.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0172",
-        "name": "The Netherlands",
-        "label": "Flag of the Netherlands",
-        "file": "assets/icons/emojis/flags/1f1f3-1f1f1.svg",
+        "name": {
+          "de": "Die Niederlande",
+          "en": "The Netherlands"
+        },
+        "label": {
+          "de": "Flagge der Niederlande",
+          "en": "Flag of the Netherlands"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f3-1f1f1.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0173",
-        "name": "Norway",
-        "label": "Flag of Norway",
-        "file": "assets/icons/emojis/flags/1f1f3-1f1f4.svg",
+        "name": {
+          "de": "Norwegen",
+          "en": "Norway"
+        },
+        "label": {
+          "de": "Flagge von Norwegen",
+          "en": "Flag of Norway"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f3-1f1f4.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0174",
-        "name": "Nepal",
-        "label": "Flag of Nepal",
-        "file": "assets/icons/emojis/flags/1f1f3-1f1f5.svg",
+        "name": {
+          "de": "Nepal",
+          "en": "Nepal"
+        },
+        "label": {
+          "de": "Flagge von Nepal",
+          "en": "Flag of Nepal"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f3-1f1f5.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0175",
-        "name": "Nauru",
-        "label": "Flag of Nauru",
-        "file": "assets/icons/emojis/flags/1f1f3-1f1f7.svg",
+        "name": {
+          "de": "Nauru",
+          "en": "Nauru"
+        },
+        "label": {
+          "de": "Flagge von Nauru",
+          "en": "Flag of Nauru"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f3-1f1f7.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0176",
-        "name": "Niue",
-        "label": "Flag of Niue",
-        "file": "assets/icons/emojis/flags/1f1f3-1f1fa.svg",
+        "name": {
+          "de": "Niue",
+          "en": "Niue"
+        },
+        "label": {
+          "de": "Flagge von Niue",
+          "en": "Flag of Niue"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f3-1f1fa.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0177",
-        "name": "New Zealand",
-        "label": "Flag of New Zealand",
-        "file": "assets/icons/emojis/flags/1f1f3-1f1ff.svg",
+        "name": {
+          "de": "Neuseeland",
+          "en": "New Zealand"
+        },
+        "label": {
+          "de": "Flagge von Neuseeland",
+          "en": "Flag of New Zealand"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f3-1f1ff.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0178",
-        "name": "Oman",
-        "label": "Flag of Oman",
-        "file": "assets/icons/emojis/flags/1f1f4-1f1f2.svg",
+        "name": {
+          "de": "Oman",
+          "en": "Oman"
+        },
+        "label": {
+          "de": "Flagge von Oman",
+          "en": "Flag of Oman"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f4-1f1f2.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0179",
-        "name": "Panama",
-        "label": "Flag of Panama",
-        "file": "assets/icons/emojis/flags/1f1f5-1f1e6.svg",
+        "name": {
+          "de": "Panama",
+          "en": "Panama"
+        },
+        "label": {
+          "de": "Flagge von Panama",
+          "en": "Flag of Panama"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f5-1f1e6.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0180",
-        "name": "Peru",
-        "label": "Flag of Peru",
-        "file": "assets/icons/emojis/flags/1f1f5-1f1ea.svg",
+        "name": {
+          "de": "Peru",
+          "en": "Peru"
+        },
+        "label": {
+          "de": "Flagge von Peru",
+          "en": "Flag of Peru"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f5-1f1ea.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0181",
-        "name": "French Polynesia",
-        "label": "Flag of French Polynesia",
-        "file": "assets/icons/emojis/flags/1f1f5-1f1eb.svg",
+        "name": {
+          "de": "Französisch-Polynesien",
+          "en": "French Polynesia"
+        },
+        "label": {
+          "de": "Flagge von Französisch-Polynesien",
+          "en": "Flag of French Polynesia"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f5-1f1eb.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0182",
-        "name": "Papua New Guinea",
-        "label": "Flag of Papua New Guinea",
-        "file": "assets/icons/emojis/flags/1f1f5-1f1ec.svg",
+        "name": {
+          "de": "Papua-Neuguinea",
+          "en": "Papua New Guinea"
+        },
+        "label": {
+          "de": "Flagge von Papua-Neuguinea",
+          "en": "Flag of Papua New Guinea"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f5-1f1ec.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0183",
-        "name": "The Philippines",
-        "label": "Flag of the Philippines",
-        "file": "assets/icons/emojis/flags/1f1f5-1f1ed.svg",
+        "name": {
+          "de": "Die Philippinen",
+          "en": "The Philippines"
+        },
+        "label": {
+          "de": "Flagge der Philippinen",
+          "en": "Flag of the Philippines"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f5-1f1ed.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0184",
-        "name": "Pakistan",
-        "label": "Flag of Pakistan",
-        "file": "assets/icons/emojis/flags/1f1f5-1f1f0.svg",
+        "name": {
+          "de": "Pakistan",
+          "en": "Pakistan"
+        },
+        "label": {
+          "de": "Flagge von Pakistan",
+          "en": "Flag of Pakistan"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f5-1f1f0.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0185",
-        "name": "Poland",
-        "label": "Flag of Poland",
-        "file": "assets/icons/emojis/flags/1f1f5-1f1f1.svg",
+        "name": {
+          "de": "Polen",
+          "en": "Poland"
+        },
+        "label": {
+          "de": "Flagge von Polen",
+          "en": "Flag of Poland"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f5-1f1f1.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0186",
-        "name": "St. Pierre & Miquelon",
-        "label": "Flag of St. Pierre & Miquelon",
-        "file": "assets/icons/emojis/flags/1f1f5-1f1f2.svg",
+        "name": {
+          "de": "St. Pierre & Miquelon",
+          "en": "St. Pierre & Miquelon"
+        },
+        "label": {
+          "de": "Flagge von St. Pierre & Miquelon",
+          "en": "Flag of St. Pierre & Miquelon"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f5-1f1f2.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0187",
-        "name": "The Pitcairn Islands",
-        "label": "Flag of the Pitcairn Islands",
-        "file": "assets/icons/emojis/flags/1f1f5-1f1f3.svg",
+        "name": {
+          "de": "Die Pitcairninseln",
+          "en": "The Pitcairn Islands"
+        },
+        "label": {
+          "de": "Flagge der Pitcairninseln",
+          "en": "Flag of the Pitcairn Islands"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f5-1f1f3.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0188",
-        "name": "Puerto Rico",
-        "label": "Flag of Puerto Rico",
-        "file": "assets/icons/emojis/flags/1f1f5-1f1f7.svg",
+        "name": {
+          "de": "Puerto Rico",
+          "en": "Puerto Rico"
+        },
+        "label": {
+          "de": "Flagge von Puerto Rico",
+          "en": "Flag of Puerto Rico"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f5-1f1f7.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0189",
-        "name": "The Palestinian Territories",
-        "label": "Flag of the Palestinian Territories",
-        "file": "assets/icons/emojis/flags/1f1f5-1f1f8.svg",
+        "name": {
+          "de": "Palästina",
+          "en": "The Palestinian Territories"
+        },
+        "label": {
+          "de": "Flagge von Palästina",
+          "en": "Flag of the Palestinian Territories"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f5-1f1f8.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0190",
-        "name": "Portugal",
-        "label": "Flag of Portugal",
-        "file": "assets/icons/emojis/flags/1f1f5-1f1f9.svg",
+        "name": {
+          "de": "Portugal",
+          "en": "Portugal"
+        },
+        "label": {
+          "de": "Flagge von Portugal",
+          "en": "Flag of Portugal"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f5-1f1f9.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0191",
-        "name": "Palau",
-        "label": "Flag of Palau",
-        "file": "assets/icons/emojis/flags/1f1f5-1f1fc.svg",
+        "name": {
+          "de": "Palau",
+          "en": "Palau"
+        },
+        "label": {
+          "de": "Flagge von Palau",
+          "en": "Flag of Palau"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f5-1f1fc.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0192",
-        "name": "Paraguay",
-        "label": "Flag of Paraguay",
-        "file": "assets/icons/emojis/flags/1f1f5-1f1fe.svg",
+        "name": {
+          "de": "Paraguay",
+          "en": "Paraguay"
+        },
+        "label": {
+          "de": "Flagge von Paraguay",
+          "en": "Flag of Paraguay"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f5-1f1fe.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0193",
-        "name": "Qatar",
-        "label": "Flag of Qatar",
-        "file": "assets/icons/emojis/flags/1f1f6-1f1e6.svg",
+        "name": {
+          "de": "Katar",
+          "en": "Qatar"
+        },
+        "label": {
+          "de": "Flagge von Katar",
+          "en": "Flag of Qatar"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f6-1f1e6.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0194",
-        "name": "Réunion",
-        "label": "Flag of Réunion",
-        "file": "assets/icons/emojis/flags/1f1f7-1f1ea.svg",
+        "name": {
+          "de": "Réunion",
+          "en": "Réunion"
+        },
+        "label": {
+          "de": "Flagge von Réunion",
+          "en": "Flag of Réunion"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f7-1f1ea.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0195",
-        "name": "Romania",
-        "label": "Flag of Romania",
-        "file": "assets/icons/emojis/flags/1f1f7-1f1f4.svg",
+        "name": {
+          "de": "Rumänien",
+          "en": "Romania"
+        },
+        "label": {
+          "de": "Flagge von Rumänien",
+          "en": "Flag of Romania"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f7-1f1f4.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0196",
-        "name": "Serbia",
-        "label": "Flag of Serbia",
-        "file": "assets/icons/emojis/flags/1f1f7-1f1f8.svg",
+        "name": {
+          "de": "Serbien",
+          "en": "Serbia"
+        },
+        "label": {
+          "de": "Flagge von Serbien",
+          "en": "Flag of Serbia"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f7-1f1f8.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0197",
-        "name": "Russia",
-        "label": "Flag of Russia",
-        "file": "assets/icons/emojis/flags/1f1f7-1f1fa.svg",
+        "name": {
+          "de": "Russland",
+          "en": "Russia"
+        },
+        "label": {
+          "de": "Flagge von Russland",
+          "en": "Flag of Russia"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f7-1f1fa.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0198",
-        "name": "Rwanda",
-        "label": "Flag of Rwanda",
-        "file": "assets/icons/emojis/flags/1f1f7-1f1fc.svg",
+        "name": {
+          "de": "Ruanda",
+          "en": "Rwanda"
+        },
+        "label": {
+          "de": "Flagge von Ruanda",
+          "en": "Flag of Rwanda"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f7-1f1fc.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0199",
-        "name": "Saudi Arabia",
-        "label": "Flag of Saudi Arabia",
-        "file": "assets/icons/emojis/flags/1f1f8-1f1e6.svg",
+        "name": {
+          "de": "Saudi-Arabien",
+          "en": "Saudi Arabia"
+        },
+        "label": {
+          "de": "Flagge von Saudi-Arabien",
+          "en": "Flag of Saudi Arabia"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f8-1f1e6.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0200",
-        "name": "The Solomon Islands",
-        "label": "Flag of the Solomon Islands",
-        "file": "assets/icons/emojis/flags/1f1f8-1f1e7.svg",
+        "name": {
+          "de": "Die Salomon-Inseln",
+          "en": "The Solomon Islands"
+        },
+        "label": {
+          "de": "Flagge der Salomon-Inseln",
+          "en": "Flag of the Solomon Islands"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f8-1f1e6.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0201",
-        "name": "The Seychelles",
-        "label": "Flag of the Seychelles",
-        "file": "assets/icons/emojis/flags/1f1f8-1f1e8.svg",
+        "name": {
+          "de": "Die Seychellen",
+          "en": "The Seychelles"
+        },
+        "label": {
+          "de": "Flagge der Seychellen",
+          "en": "Flag of the Seychelles"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f8-1f1e8.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0202",
-        "name": "Sudan",
-        "label": "Flag of Sudan",
-        "file": "assets/icons/emojis/flags/1f1f8-1f1e9.svg",
+        "name": {
+          "de": "Der Sudan",
+          "en": "Sudan"
+        },
+        "label": {
+          "de": "Flagge des Sudan",
+          "en": "Flag of Sudan"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f8-1f1e9.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0203",
-        "name": "Sweden",
-        "label": "Flag of Sweden",
-        "file": "assets/icons/emojis/flags/1f1f8-1f1ea.svg",
+        "name": {
+          "de": "Schweden",
+          "en": "Sweden"
+        },
+        "label": {
+          "de": "Flagge von Schweden",
+          "en": "Flag of Sweden"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f8-1f1ea.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0204",
-        "name": "Singapore",
-        "label": "Flag of Singapore",
-        "file": "assets/icons/emojis/flags/1f1f8-1f1ec.svg",
+        "name": {
+          "de": "Singapur",
+          "en": "Singapore"
+        },
+        "label": {
+          "de": "Flagge von Singapur",
+          "en": "Flag of Singapore"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f8-1f1ec.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0205",
-        "name": "St. Helena",
-        "label": "Flag of St. Helena",
-        "file": "assets/icons/emojis/flags/1f1f8-1f1ed.svg",
+        "name": {
+          "de": "St. Helena",
+          "en": "St. Helena"
+        },
+        "label": {
+          "de": "Flagge von St. Helena",
+          "en": "Flag of St. Helena"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f8-1f1ed.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0206",
-        "name": "Slovenia",
-        "label": "Flag of Slovenia",
-        "file": "assets/icons/emojis/flags/1f1f8-1f1ee.svg",
+        "name": {
+          "de": "Slowenien",
+          "en": "Slovenia"
+        },
+        "label": {
+          "de": "Flagge von Slowenien",
+          "en": "Flag of Slovenia"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f8-1f1ee.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0207",
-        "name": "Svalbard & Ja Mayen",
-        "label": "Flag of Svalbard & Ja Mayen",
-        "file": "assets/icons/emojis/flags/1f1f8-1f1ef.svg",
+        "name": {
+          "de": "Svalbard & Jan Mayen",
+          "en": "Svalbard & Jan Mayen"
+        },
+        "label": {
+          "de": "Flagge von Svalbard & Jan Mayen",
+          "en": "Flag of Svalbard & Jan Mayen"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f8-1f1ef.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0208",
-        "name": "Slovakia",
-        "label": "Flag of Slovakia",
-        "file": "assets/icons/emojis/flags/1f1f8-1f1f0.svg",
+        "name": {
+          "de": "Slowakei",
+          "en": "Slovakia"
+        },
+        "label": {
+          "de": "Flagge der Slowakei",
+          "en": "Flag of Slovakia"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f8-1f1f0.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0209",
-        "name": "Sierra Leone",
-        "label": "Flag of Sierra Leone",
-        "file": "assets/icons/emojis/flags/1f1f8-1f1f1.svg",
+        "name": {
+          "de": "Sierra Leone",
+          "en": "Sierra Leone"
+        },
+        "label": {
+          "de": "Flagge von Sierra Leone",
+          "en": "Flag of Sierra Leone"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f8-1f1f1.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0210",
-        "name": "San Marino",
-        "label": "Flag of San Marino",
-        "file": "assets/icons/emojis/flags/1f1f8-1f1f2.svg",
+        "name": {
+          "de": "San Marino",
+          "en": "San Marino"
+        },
+        "label": {
+          "de": "Flagge von San Marino",
+          "en": "Flag of San Marino"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f8-1f1f2.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0211",
-        "name": "Senegal",
-        "label": "Flag of Senegal",
-        "file": "assets/icons/emojis/flags/1f1f8-1f1f3.svg",
+        "name": {
+          "de": "Senegal",
+          "en": "Senegal"
+        },
+        "label": {
+          "de": "Flagge des Senegal",
+          "en": "Flag of Senegal"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f8-1f1f3.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0212",
-        "name": "Somalia",
-        "label": "Flag of Somalia",
-        "file": "assets/icons/emojis/flags/1f1f8-1f1f4.svg",
+        "name": {
+          "de": "Somalien",
+          "en": "Somalia"
+        },
+        "label": {
+          "de": "Flagge von Somalien",
+          "en": "Flag of Somalia"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f8-1f1f4.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0213",
-        "name": "Suriname",
-        "label": "Flag of Suriname",
-        "file": "assets/icons/emojis/flags/1f1f8-1f1f7.svg",
+        "name": {
+          "de": "Suriname",
+          "en": "Suriname"
+        },
+        "label": {
+          "de": "Flagge von Suriname",
+          "en": "Flag of Suriname"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f8-1f1f7.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0214",
-        "name": "South Sudan",
-        "label": "Flag of South Sudan",
-        "file": "assets/icons/emojis/flags/1f1f8-1f1f8.svg",
+        "name": {
+          "de": "Südsudan",
+          "en": "South Sudan"
+        },
+        "label": {
+          "de": "Flagge des Südsudan",
+          "en": "Flag of South Sudan"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f8-1f1f8.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0215",
-        "name": "São Tomé & Príncipe",
-        "label": "Flag of São Tomé & Príncipe",
-        "file": "assets/icons/emojis/flags/1f1f8-1f1f9.svg",
+        "name": {
+          "de": "São Tomé & Príncipe",
+          "en": "São Tomé & Príncipe"
+        },
+        "label": {
+          "de": "Flagge von São Tomé & Príncipe",
+          "en": "Flag of São Tomé & Príncipe"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f8-1f1f9.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0216",
-        "name": "The Soviet Union",
-        "label": "Flag of the Soviet Union",
-        "file": "assets/icons/emojis/flags/1f1f8-1f1fa.svg",
+        "name": {
+          "de": "Die Sowjetunion",
+          "en": "The Soviet Union"
+        },
+        "label": {
+          "de": "Flagge der Sowjetunion",
+          "en": "Flag of the Soviet Union"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f8-1f1fa.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0217",
-        "name": "El Salvador",
-        "label": "Flag of El Salvador",
-        "file": "assets/icons/emojis/flags/1f1f8-1f1fb.svg",
+        "name": {
+          "de": "El Salvador",
+          "en": "El Salvador"
+        },
+        "label": {
+          "de": "Flagge von El Salvador",
+          "en": "Flag of El Salvador"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f8-1f1fb.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0218",
-        "name": "Sint Maarten",
-        "label": "Flag of Sint Maarten",
-        "file": "assets/icons/emojis/flags/1f1f8-1f1fd.svg",
+        "name": {
+          "de": "Sint Maarten",
+          "en": "Sint Maarten"
+        },
+        "label": {
+          "de": "Flagge von Sint Maarten",
+          "en": "Flag of Sint Maarten"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f8-1f1fd.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0219",
-        "name": "Syria",
-        "label": "Flag of Syria",
-        "file": "assets/icons/emojis/flags/1f1f8-1f1fe.svg",
+        "name": {
+          "de": "Syrien",
+          "en": "Syria"
+        },
+        "label": {
+          "de": "Flagge von Syrien",
+          "en": "Flag of Syria"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f8-1f1fe.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0220",
-        "name": "Eswatini",
-        "label": "Flag of Eswatini",
-        "file": "assets/icons/emojis/flags/1f1f8-1f1ff.svg",
+        "name": {
+          "de": "Eswatini",
+          "en": "Eswatini"
+        },
+        "label": {
+          "de": "Flagge von Eswatini",
+          "en": "Flag of Eswatini"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f8-1f1ff.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0221",
-        "name": "Tristan da Cunha",
-        "label": "Flag of Tristan da Cunha",
-        "file": "assets/icons/emojis/flags/1f1f9-1f1e6.svg",
+        "name": {
+          "de": "Tristan da Cunha",
+          "en": "Tristan da Cunha"
+        },
+        "label": {
+          "de": "Flagge von Tristan da Cunha",
+          "en": "Flag of Tristan da Cunha"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f9-1f1e6.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0222",
-        "name": "Turks & Caicos Islands",
-        "label": "Flag of Turks & Caicos Islands",
-        "file": "assets/icons/emojis/flags/1f1f9-1f1e8.svg",
+        "name": {
+          "de": "Turks- & Caicosinseln",
+          "en": "Turks & Caicos Islands"
+        },
+        "label": {
+          "de": "Flagge der Turks- & Caicosinseln",
+          "en": "Flag of Turks & Caicos Islands"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f9-1f1e8.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0223",
-        "name": "Chad",
-        "label": "Flag of Chad",
-        "file": "assets/icons/emojis/flags/1f1f9-1f1e9.svg",
+        "name": {
+          "de": "Tschad",
+          "en": "Chad"
+        },
+        "label": {
+          "de": "Flagge des Tschad",
+          "en": "Flag of Chad"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f9-1f1e9.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0224",
-        "name": "The French Southern Territory",
-        "label": "Flag of the French Southern Territory",
-        "file": "assets/icons/emojis/flags/1f1f9-1f1eb.svg",
+        "name": {
+          "de": "Französische Süd- & Antarktisgebiete",
+          "en": "The French Southern & Antarctic Territory"
+        },
+        "label": {
+          "de": "Flagge der Französischen Süd- & Antarktisgebiete",
+          "en": "Flag of the French Southern & Antarctic Territory"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f9-1f1eb.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0225",
-        "name": "Togo",
-        "label": "Flag of Togo",
-        "file": "assets/icons/emojis/flags/1f1f9-1f1ec.svg",
+        "name": {
+          "de": "Togo",
+          "en": "Togo"
+        },
+        "label": {
+          "de": "Flagge von Togo",
+          "en": "Flag of Togo"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f9-1f1ec.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0226",
-        "name": "Thailand",
-        "label": "Flag of Thailand",
-        "file": "assets/icons/emojis/flags/1f1f9-1f1ed.svg",
+        "name": {
+          "de": "Thailand",
+          "en": "Thailand"
+        },
+        "label": {
+          "de": "Flagge von Thailand",
+          "en": "Flag of Thailand"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f9-1f1ed.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0227",
-        "name": "Tajikistan",
-        "label": "Flag of Tajikistan",
-        "file": "assets/icons/emojis/flags/1f1f9-1f1ef.svg",
+        "name": {
+          "de": "Tadschikistan",
+          "en": "Tajikistan"
+        },
+        "label": {
+          "de": "Flagge von Tadschikistan",
+          "en": "Flag of Tajikistan"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f9-1f1ef.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0228",
-        "name": "Tokelau",
-        "label": "Flag of Tokelau",
-        "file": "assets/icons/emojis/flags/1f1f9-1f1f0.svg",
+        "name": {
+          "de": "Tokelau",
+          "en": "Tokelau"
+        },
+        "label": {
+          "de": "Flagge von Tokelau",
+          "en": "Flag of Tokelau"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f9-1f1f0.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0229",
-        "name": "Timor-Leste",
-        "label": "Flag of Timor-Leste",
-        "file": "assets/icons/emojis/flags/1f1f9-1f1f1.svg",
+        "name": {
+          "de": "Timor-Leste",
+          "en": "Timor-Leste"
+        },
+        "label": {
+          "de": "Flagge von Timor-Leste",
+          "en": "Flag of Timor-Leste"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f9-1f1f1.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0230",
-        "name": "Turkmenistan",
-        "label": "Flag of Turkmenistan",
-        "file": "assets/icons/emojis/flags/1f1f9-1f1f2.svg",
+        "name": {
+          "de": "Turkmenistan",
+          "en": "Turkmenistan"
+        },
+        "label": {
+          "de": "Flagge von Turkmenistan",
+          "en": "Flag of Turkmenistan"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f9-1f1f2.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0231",
-        "name": "Tunisia",
-        "label": "Flag of Tunisia",
-        "file": "assets/icons/emojis/flags/1f1f9-1f1f3.svg",
+        "name": {
+          "de": "Tunesien",
+          "en": "Tunisia"
+        },
+        "label": {
+          "de": "Flagge von Tunesien",
+          "en": "Flag of Tunisia"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f9-1f1f3.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0232",
-        "name": "Tonga",
-        "label": "Flag of Tonga",
-        "file": "assets/icons/emojis/flags/1f1f9-1f1f4.svg",
+        "name": {
+          "de": "Tonga",
+          "en": "Tonga"
+        },
+        "label": {
+          "de": "Flagge von Tonga",
+          "en": "Flag of Tonga"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f9-1f1f4.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0233",
-        "name": "Turkey",
-        "label": "Flag of Turkey",
-        "file": "assets/icons/emojis/flags/1f1f9-1f1f7.svg",
+        "name": {
+          "de": "Türkei",
+          "en": "Turkey"
+        },
+        "label": {
+          "de": "Flagge der Türkei",
+          "en": "Flag of Turkey"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f9-1f1f7.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0234",
-        "name": "Trinidad & Tobago",
-        "label": "Flag of Trinidad & Tobago",
-        "file": "assets/icons/emojis/flags/1f1f9-1f1f9.svg",
+        "name": {
+          "de": "Trinidad & Tobago",
+          "en": "Trinidad & Tobago"
+        },
+        "label": {
+          "de": "Flagge von Trinidad & Tobago",
+          "en": "Flag of Trinidad & Tobago"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f9-1f1f9.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0235",
-        "name": "Tuvalu",
-        "label": "Flag of Tuvalu",
-        "file": "assets/icons/emojis/flags/1f1f9-1f1fb.svg",
+        "name": {
+          "de": "Tuvalu",
+          "en": "Tuvalu"
+        },
+        "label": {
+          "de": "Flagge von Tuvalu",
+          "en": "Flag of Tuvalu"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f9-1f1fb.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0236",
-        "name": "Taiwan",
-        "label": "Flag of Taiwan",
-        "file": "assets/icons/emojis/flags/1f1f9-1f1fc.svg",
+        "name": {
+          "de": "Taiwan",
+          "en": "Taiwan"
+        },
+        "label": {
+          "de": "Flagge von Taiwan",
+          "en": "Flag of Taiwan"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f9-1f1fc.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0237",
-        "name": "Tanzania",
+        "name": {
+          "de": "Tansania",
+          "en": "Tanzania"
+        },
         "label": "Flag of Tanzania",
-        "file": "assets/icons/emojis/flags/1f1f9-1f1ff.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1f9-1f1ff.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0238",
-        "name": "Ukraine",
-        "label": "Flag of Ukraine",
-        "file": "assets/icons/emojis/flags/1f1fa-1f1e6.svg",
+        "name": {
+          "de": "Ukraine",
+          "en": "Ukraine"
+        },
+        "label": {
+          "de": "Flagge der Ukraine",
+          "en": "Flag of Ukraine"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1fa-1f1e6.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0239",
-        "name": "Uganda",
-        "label": "Flag of Uganda",
-        "file": "assets/icons/emojis/flags/1f1fa-1f1ec.svg",
+        "name": {
+          "de": "Uganda",
+          "en": "Uganda"
+        },
+        "label": {
+          "de": "Flagge von Uganda",
+          "en": "Flag of Uganda"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1fa-1f1ec.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0240",
-        "name": "The U.S. Outlying Islands",
-        "label": "Flag of the U.S. Outlying Islands",
-        "file": "assets/icons/emojis/flags/1f1fa-1f1f2.svg",
+        "name": {
+          "de": "Kleinere abgelegene Inseln der USA",
+          "en": "The U.S. Outlying Islands"
+        },
+        "label": {
+          "de": "Flagge der kleineren abgelegenen Inseln der USA",
+          "en": "Flag of the U.S. Outlying Islands"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1fa-1f1f2.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0241",
-        "name": "The United States of America",
-        "label": "Flag of the United States of America",
-        "file": "assets/icons/emojis/flags/1f1fa-1f1f8.svg",
+        "name": {
+          "de": "Die Vereinigten Staaten von Amerika",
+          "en": "The United States of America"
+        },
+        "label": {
+          "de": "Flagge der Vereinigten Staaten von Amerika",
+          "en": "Flag of the United States of America"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1fa-1f1f8.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0242",
-        "name": "Uruguay",
-        "label": "Flag of Uruguay",
-        "file": "assets/icons/emojis/flags/1f1fa-1f1fe.svg",
+        "name": {
+          "de": "Uruguay",
+          "en": "Uruguay"
+        },
+        "label": {
+          "de": "Flagge von Uruguay",
+          "en": "Flag of Uruguay"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1fa-1f1fe.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0243",
-        "name": "Uzbekistan",
-        "label": "Flag of Uzbekistan",
-        "file": "assets/icons/emojis/flags/1f1fa-1f1ff.svg",
+        "name": {
+          "de": "Usbekistan",
+          "en": "Uzbekistan"
+        },
+        "label": {
+          "de": "Flagge von Usbekistan",
+          "en": "Flag of Uzbekistan"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1fa-1f1ff.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0244",
-        "name": "Vatican City",
-        "label": "Flag of Vatican City",
-        "file": "assets/icons/emojis/flags/1f1fb-1f1e6.svg",
+        "name": {
+          "de": "Vatikanstadt",
+          "en": "Vatican City"
+        },
+        "label": {
+          "de": "Flagge der Vatikanstadt",
+          "en": "Flag of Vatican City"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1fb-1f1e6.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0245",
-        "name": "St. Vincent & Grenadines",
-        "label": "Flag of St. Vincent & Grenadines",
-        "file": "assets/icons/emojis/flags/1f1fb-1f1e8.svg",
+        "name": {
+          "de": "St. Vincent & Grenadines",
+          "en": "St. Vincent & Grenadines"
+        },
+        "label": {
+          "de": "Flagge von St. Vincent & Grenadines",
+          "en": "Flag of St. Vincent & Grenadines"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1fb-1f1e8.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0246",
-        "name": "Venezuela",
+        "name": {
+          "de": "Venezuela",
+          "en": "Venezuela"
+        },
         "label": "Flag of Venezuela",
-        "file": "assets/icons/emojis/flags/1f1fb-1f1ea.svg",
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1fb-1f1ea.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0247",
-        "name": "The British Virgin Islands",
-        "label": "Flag of the British Virgin Islands",
-        "file": "assets/icons/emojis/flags/1f1fb-1f1ec.svg",
+        "name": {
+          "de": "Britische Jungferninseln",
+          "en": "The British Virgin Islands"
+        },
+        "label": {
+          "de": "Flagge der Britischen Jungferninseln",
+          "en": "Flag of the British Virgin Islands"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1fb-1f1ec.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0248",
-        "name": "The U.S. Virgin Islands",
-        "label": "Flag of the U.S. Virgin Islands",
-        "file": "assets/icons/emojis/flags/1f1fb-1f1ee.svg",
+        "name": {
+          "de": "Amerikanische Jungferninseln",
+          "en": "The U.S. Virgin Islands"
+        },
+        "label": {
+          "de": "Flagge der Amerikanischen Jungferninseln",
+          "en": "Flag of the U.S. Virgin Islands"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1fb-1f1ee.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0249",
-        "name": "Vietnam",
-        "label": "Flag of Vietnam",
-        "file": "assets/icons/emojis/flags/1f1fb-1f1f3.svg",
+        "name": {
+          "de": "Vietnam",
+          "en": "Vietnam"
+        },
+        "label": {
+          "de": "Flagge von Vietnam",
+          "en": "Flag of Vietnam"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1fb-1f1f3.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0250",
-        "name": "Vanuatu",
-        "label": "Flag of Vanuatu",
-        "file": "assets/icons/emojis/flags/1f1fb-1f1fa.svg",
+        "name": {
+          "de": "Vanuatu",
+          "en": "Vanuatu"
+        },
+        "label": {
+          "de": "Flagge von Vanuatu",
+          "en": "Flag of Vanuatu"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1fb-1f1fa.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0251",
-        "name": "Wallis & Futuna",
-        "label": "Flag of Wallis & Futuna",
-        "file": "assets/icons/emojis/flags/1f1fc-1f1eb.svg",
+        "name": {
+          "de": "Wallis & Futuna",
+          "en": "Wallis & Futuna"
+        },
+        "label": {
+          "de": "Flagge von Wallis & Futuna",
+          "en": "Flag of Wallis & Futuna"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1fc-1f1eb.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0252",
-        "name": "Samoa",
-        "label": "Flag of Samoa",
-        "file": "assets/icons/emojis/flags/1f1fc-1f1f8.svg",
+        "name": {
+          "de": "Samoa",
+          "en": "Samoa"
+        },
+        "label": {
+          "de": "Flagge von Samoa",
+          "en": "Flag of Samoa"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1fc-1f1f8.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0253",
-        "name": "Kosovo",
-        "label": "Flag of Kosovo",
-        "file": "assets/icons/emojis/flags/1f1fd-1f1f0.svg",
+        "name": {
+          "de": "Kosovo",
+          "en": "Kosovo"
+        },
+        "label": {
+          "de": "Flagge des Kosovo",
+          "en": "Flag of Kosovo"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1fd-1f1f0.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0254",
-        "name": "Yemen",
-        "label": "Flag of Yemen",
-        "file": "assets/icons/emojis/flags/1f1fe-1f1ea.svg",
+        "name": {
+          "de": "Jemen",
+          "en": "Yemen"
+        },
+        "label": {
+          "de": "Flagge des Jemen",
+          "en": "Flag of Yemen"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1fe-1f1ea.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0255",
-        "name": "Mayotte",
-        "label": "Flag of Mayotte",
-        "file": "assets/icons/emojis/flags/1f1fe-1f1f9.svg",
+        "name": {
+          "de": "Mayotte",
+          "en": "Mayotte"
+        },
+        "label": {
+          "de": "Flagge von Mayotte",
+          "en": "Flag of Mayotte"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1fe-1f1f9.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0256",
-        "name": "South Africa",
-        "label": "Flag of South Africa",
-        "file": "assets/icons/emojis/flags/1f1ff-1f1e6.svg",
+        "name": {
+          "de": "Südafrika",
+          "en": "South Africa"
+        },
+        "label": {
+          "de": "Flagge von Südafrika",
+          "en": "Flag of South Africa"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1ff-1f1e6.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0257",
-        "name": "Zambia",
-        "label": "Flag of Zambia",
-        "file": "assets/icons/emojis/flags/1f1ff-1f1f2.svg",
+        "name": {
+          "de": "Sambia",
+          "en": "Zambia"
+        },
+        "label": {
+          "de": "Flagge von Sambia",
+          "en": "Flag of Zambia"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1ff-1f1f2.svg"
+        },
         "has_skin_tone": false
       },
       {
         "id": "flags_0258",
-        "name": "Zimbabwe",
-        "label": "Flag of Zimbabwe",
-        "file": "assets/icons/emojis/flags/1f1ff-1f1fc.svg",
+        "name": {
+          "de": "Simbabwe",
+          "en": "Zimbabwe"
+        },
+        "label": {
+          "de": "Flagge von Simbabwe",
+          "en": "Flag of Zimbabwe"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f1ff-1f1fc.svg"
+        },
+        "has_skin_tone": false
+      },
+      {
+        "id": "flags_0265",
+        "name": {
+          "de": "Nordirland",
+          "en": "Northern Ireland"
+        },
+        "label": {
+          "de": "Nordirland",
+          "en": "Northern Ireland"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f3f4-e0067-e0062-e006e-e0069-e0072-e007f.svg"
+        },
+        "has_skin_tone": false
+      },
+      {
+        "id": "flags_0259",
+        "name": {
+          "de": "Zielflagge",
+          "en": "Chequered flag"
+        },
+        "label": {
+          "de": "Zielflagge ",
+          "en": "Chequered flag"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f3c1.svg"
+        },
+        "has_skin_tone": false
+      },
+      {
+        "id": "flags_0260",
+        "name": {
+          "de": "Schwarzer Wimpel",
+          "en": "Black pennant"
+        },
+        "label": {
+          "de": "Schwarzer Wimpel",
+          "en": "Black pennant"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f3f2.svg"
+        },
+        "has_skin_tone": false
+      },
+      {
+        "id": "flags_0261",
+        "name": {
+          "de": "Weiße Flagge",
+          "en": "White flag"
+        },
+        "label": {
+          "de": "Weiße Flagge",
+          "en": "White flag"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f3f3.svg"
+        },
+        "has_skin_tone": false
+      },
+      {
+        "id": "flags_0262",
+        "name": {
+          "de": "Regenbogenflagge",
+          "en": "Rainbow flag"
+        },
+        "label": {
+          "de": "Regenbogenflagge",
+          "en": "Rainbow flag"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f3f3-1f308.svg"
+        },
+        "has_skin_tone": false
+      },
+      {
+        "id": "flags_0263",
+        "name": {
+          "de": "Schwarze Flagge",
+          "en": "Black flag"
+        },
+        "label": {
+          "de": "Schwarze Flagge",
+          "en": "Black flag"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f3f4.svg"
+        },
+        "has_skin_tone": false
+      },
+      {
+        "id": "flags_0264",
+        "name": {
+          "de": "Piratenflagge",
+          "en": "Pirate flag"
+        },
+        "label": {
+          "de": "Piratenflagge",
+          "en": "Pirate flag"
+        },
+        "files": {
+          "default": "assets/icons/emojis/flags/1f3f4-2620.svg"
+        },
         "has_skin_tone": false
       }
     ]
