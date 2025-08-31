@@ -6674,25 +6674,6 @@
       {
         "id": "flags_0216",
         "name": {
-          "de": "Die Sowjetunion",
-          "en": "The Soviet Union"
-        },
-        "label": {
-          "de": "Flagge der Sowjetunion",
-          "en": "Flag of the Soviet Union"
-        },
-        "files": {
-          "default": "assets/icons/emojis/flags/1f1f8-1f1fa.svg"
-        },
-        "keywords": {
-          "de": [],
-          "en": []
-        },
-        "has_skin_tone": false
-      },
-      {
-        "id": "flags_0217",
-        "name": {
           "de": "El Salvador",
           "en": "El Salvador"
         },
@@ -6710,7 +6691,7 @@
         "has_skin_tone": false
       },
       {
-        "id": "flags_0218",
+        "id": "flags_0217",
         "name": {
           "de": "Sint Maarten",
           "en": "Sint Maarten"
@@ -6729,7 +6710,7 @@
         "has_skin_tone": false
       },
       {
-        "id": "flags_0219",
+        "id": "flags_0218",
         "name": {
           "de": "Syrien",
           "en": "Syria"
@@ -6748,7 +6729,7 @@
         "has_skin_tone": false
       },
       {
-        "id": "flags_0220",
+        "id": "flags_0219",
         "name": {
           "de": "Eswatini",
           "en": "Eswatini"
@@ -6767,7 +6748,7 @@
         "has_skin_tone": false
       },
       {
-        "id": "flags_0221",
+        "id": "flags_0220",
         "name": {
           "de": "Tristan da Cunha",
           "en": "Tristan da Cunha"
@@ -6786,7 +6767,7 @@
         "has_skin_tone": false
       },
       {
-        "id": "flags_0222",
+        "id": "flags_0221",
         "name": {
           "de": "Turks- & Caicosinseln",
           "en": "Turks & Caicos Islands"
@@ -6805,7 +6786,7 @@
         "has_skin_tone": false
       },
       {
-        "id": "flags_0223",
+        "id": "flags_0222",
         "name": {
           "de": "Tschad",
           "en": "Chad"
@@ -6824,7 +6805,7 @@
         "has_skin_tone": false
       },
       {
-        "id": "flags_0224",
+        "id": "flags_0223",
         "name": {
           "de": "Französische Süd- & Antarktisgebiete",
           "en": "The French Southern & Antarctic Territory"
@@ -6843,7 +6824,7 @@
         "has_skin_tone": false
       },
       {
-        "id": "flags_0225",
+        "id": "flags_0224",
         "name": {
           "de": "Togo",
           "en": "Togo"
@@ -6862,7 +6843,7 @@
         "has_skin_tone": false
       },
       {
-        "id": "flags_0226",
+        "id": "flags_0225",
         "name": {
           "de": "Thailand",
           "en": "Thailand"
@@ -6881,7 +6862,7 @@
         "has_skin_tone": false
       },
       {
-        "id": "flags_0227",
+        "id": "flags_0226",
         "name": {
           "de": "Tadschikistan",
           "en": "Tajikistan"
@@ -6900,7 +6881,7 @@
         "has_skin_tone": false
       },
       {
-        "id": "flags_0228",
+        "id": "flags_0227",
         "name": {
           "de": "Tokelau",
           "en": "Tokelau"
@@ -6919,7 +6900,7 @@
         "has_skin_tone": false
       },
       {
-        "id": "flags_0229",
+        "id": "flags_0228",
         "name": {
           "de": "Timor-Leste",
           "en": "Timor-Leste"
@@ -6938,7 +6919,7 @@
         "has_skin_tone": false
       },
       {
-        "id": "flags_0230",
+        "id": "flags_0229",
         "name": {
           "de": "Turkmenistan",
           "en": "Turkmenistan"
@@ -6957,7 +6938,7 @@
         "has_skin_tone": false
       },
       {
-        "id": "flags_0231",
+        "id": "flags_0230",
         "name": {
           "de": "Tunesien",
           "en": "Tunisia"
@@ -6976,7 +6957,7 @@
         "has_skin_tone": false
       },
       {
-        "id": "flags_0232",
+        "id": "flags_0231",
         "name": {
           "de": "Tonga",
           "en": "Tonga"
@@ -6995,7 +6976,7 @@
         "has_skin_tone": false
       },
       {
-        "id": "flags_0233",
+        "id": "flags_0232",
         "name": {
           "de": "Türkei",
           "en": "Turkey"
@@ -7014,7 +6995,7 @@
         "has_skin_tone": false
       },
       {
-        "id": "flags_0234",
+        "id": "flags_0233",
         "name": {
           "de": "Trinidad & Tobago",
           "en": "Trinidad & Tobago"
@@ -7033,7 +7014,7 @@
         "has_skin_tone": false
       },
       {
-        "id": "flags_0235",
+        "id": "flags_0234",
         "name": {
           "de": "Tuvalu",
           "en": "Tuvalu"
@@ -7052,7 +7033,7 @@
         "has_skin_tone": false
       },
       {
-        "id": "flags_0236",
+        "id": "flags_0235",
         "name": {
           "de": "Taiwan",
           "en": "Taiwan"
@@ -7071,7 +7052,7 @@
         "has_skin_tone": false
       },
       {
-        "id": "flags_0237",
+        "id": "flags_0236",
         "name": {
           "de": "Tansania",
           "en": "Tanzania"
@@ -7087,7 +7068,7 @@
         "has_skin_tone": false
       },
       {
-        "id": "flags_0238",
+        "id": "flags_0237",
         "name": {
           "de": "Ukraine",
           "en": "Ukraine"
@@ -7106,7 +7087,7 @@
         "has_skin_tone": false
       },
       {
-        "id": "flags_0239",
+        "id": "flags_0238",
         "name": {
           "de": "Uganda",
           "en": "Uganda"
@@ -7125,7 +7106,7 @@
         "has_skin_tone": false
       },
       {
-        "id": "flags_0240",
+        "id": "flags_0239",
         "name": {
           "de": "Kleinere abgelegene Inseln der USA",
           "en": "The U.S. Outlying Islands"
@@ -7144,7 +7125,7 @@
         "has_skin_tone": false
       },
       {
-        "id": "flags_0241",
+        "id": "flags_0240",
         "name": {
           "de": "Die Vereinigten Staaten von Amerika",
           "en": "The United States of America"
@@ -7163,7 +7144,7 @@
         "has_skin_tone": false
       },
       {
-        "id": "flags_0242",
+        "id": "flags_0241",
         "name": {
           "de": "Uruguay",
           "en": "Uruguay"
@@ -7182,7 +7163,7 @@
         "has_skin_tone": false
       },
       {
-        "id": "flags_0243",
+        "id": "flags_0242",
         "name": {
           "de": "Usbekistan",
           "en": "Uzbekistan"
@@ -7201,7 +7182,7 @@
         "has_skin_tone": false
       },
       {
-        "id": "flags_0244",
+        "id": "flags_0243",
         "name": {
           "de": "Vatikanstadt",
           "en": "Vatican City"
@@ -7220,7 +7201,7 @@
         "has_skin_tone": false
       },
       {
-        "id": "flags_0245",
+        "id": "flags_0244",
         "name": {
           "de": "St. Vincent & Grenadines",
           "en": "St. Vincent & Grenadines"
@@ -7239,7 +7220,7 @@
         "has_skin_tone": false
       },
       {
-        "id": "flags_0246",
+        "id": "flags_0245",
         "name": {
           "de": "Venezuela",
           "en": "Venezuela"
@@ -7255,7 +7236,7 @@
         "has_skin_tone": false
       },
       {
-        "id": "flags_0247",
+        "id": "flags_0246",
         "name": {
           "de": "Britische Jungferninseln",
           "en": "The British Virgin Islands"
@@ -7274,7 +7255,7 @@
         "has_skin_tone": false
       },
       {
-        "id": "flags_0248",
+        "id": "flags_0247",
         "name": {
           "de": "Amerikanische Jungferninseln",
           "en": "The U.S. Virgin Islands"
@@ -7293,7 +7274,7 @@
         "has_skin_tone": false
       },
       {
-        "id": "flags_0249",
+        "id": "flags_0248",
         "name": {
           "de": "Vietnam",
           "en": "Vietnam"
@@ -7312,7 +7293,7 @@
         "has_skin_tone": false
       },
       {
-        "id": "flags_0250",
+        "id": "flags_0249",
         "name": {
           "de": "Vanuatu",
           "en": "Vanuatu"
@@ -7331,7 +7312,7 @@
         "has_skin_tone": false
       },
       {
-        "id": "flags_0251",
+        "id": "flags_0250",
         "name": {
           "de": "Wallis & Futuna",
           "en": "Wallis & Futuna"
@@ -7350,7 +7331,7 @@
         "has_skin_tone": false
       },
       {
-        "id": "flags_0252",
+        "id": "flags_0251",
         "name": {
           "de": "Samoa",
           "en": "Samoa"
@@ -7369,7 +7350,7 @@
         "has_skin_tone": false
       },
       {
-        "id": "flags_0253",
+        "id": "flags_0252",
         "name": {
           "de": "Kosovo",
           "en": "Kosovo"
@@ -7388,7 +7369,7 @@
         "has_skin_tone": false
       },
       {
-        "id": "flags_0254",
+        "id": "flags_0253",
         "name": {
           "de": "Jemen",
           "en": "Yemen"
@@ -7407,7 +7388,7 @@
         "has_skin_tone": false
       },
       {
-        "id": "flags_0255",
+        "id": "flags_0254",
         "name": {
           "de": "Mayotte",
           "en": "Mayotte"
@@ -7426,7 +7407,7 @@
         "has_skin_tone": false
       },
       {
-        "id": "flags_0256",
+        "id": "flags_0255",
         "name": {
           "de": "Südafrika",
           "en": "South Africa"
@@ -7445,7 +7426,7 @@
         "has_skin_tone": false
       },
       {
-        "id": "flags_0257",
+        "id": "flags_0256",
         "name": {
           "de": "Sambia",
           "en": "Zambia"
@@ -7464,7 +7445,7 @@
         "has_skin_tone": false
       },
       {
-        "id": "flags_0258",
+        "id": "flags_0257",
         "name": {
           "de": "Simbabwe",
           "en": "Zimbabwe"
@@ -7482,27 +7463,9 @@
         },
         "has_skin_tone": false
       },
+
       {
-        "id": "flags_0265",
-        "name": {
-          "de": "Nordirland",
-          "en": "Northern Ireland"
-        },
-        "label": {
-          "de": "Nordirland",
-          "en": "Northern Ireland"
-        },
-        "files": {
-          "default": "assets/icons/emojis/flags/1f3f4-e0067-e0062-e006e-e0069-e0072-e007f.svg"
-        },
-        "keywords": {
-          "de": [],
-          "en": []
-        },
-        "has_skin_tone": false
-      },
-      {
-        "id": "flags_0259",
+        "id": "flags_0258",
         "name": {
           "de": "Zielflagge",
           "en": "Chequered flag"
@@ -7521,17 +7484,17 @@
         "has_skin_tone": false
       },
       {
-        "id": "flags_0260",
+        "id": "flags_0259",
         "name": {
-          "de": "Schwarzer Wimpel",
-          "en": "Black pennant"
+          "de": "Roter Wimpel",
+          "en": "Red pennant"
         },
         "label": {
-          "de": "Schwarzer Wimpel",
-          "en": "Black pennant"
+          "de": "Roter Wimpel",
+          "en": "Red pennant"
         },
         "files": {
-          "default": "assets/icons/emojis/flags/1f3f2.svg"
+          "default": "assets/icons/emojis/flags/1f6a9.svg"
         },
         "keywords": {
           "de": [],
@@ -7540,7 +7503,7 @@
         "has_skin_tone": false
       },
       {
-        "id": "flags_0261",
+        "id": "flags_0260",
         "name": {
           "de": "Weiße Flagge",
           "en": "White flag"
@@ -7559,7 +7522,7 @@
         "has_skin_tone": false
       },
       {
-        "id": "flags_0262",
+        "id": "flags_0261",
         "name": {
           "de": "Regenbogenflagge",
           "en": "Rainbow flag"
@@ -7569,7 +7532,7 @@
           "en": "Rainbow flag"
         },
         "files": {
-          "default": "assets/icons/emojis/flags/1f3f3-1f308.svg"
+          "default": "assets/icons/emojis/flags/1f3f3-fe0f-200d-1f308.svg"
         },
         "keywords": {
           "de": [],
@@ -7578,7 +7541,7 @@
         "has_skin_tone": false
       },
       {
-        "id": "flags_0263",
+        "id": "flags_0262",
         "name": {
           "de": "Schwarze Flagge",
           "en": "Black flag"
@@ -7597,7 +7560,7 @@
         "has_skin_tone": false
       },
       {
-        "id": "flags_0264",
+        "id": "flags_0263",
         "name": {
           "de": "Piratenflagge",
           "en": "Pirate flag"
@@ -7607,7 +7570,7 @@
           "en": "Pirate flag"
         },
         "files": {
-          "default": "assets/icons/emojis/flags/1f3f4-2620.svg"
+          "default": "assets/icons/emojis/flags/1f3f4-200d-2620-fe0f.svg"
         },
         "keywords": {
           "de": [],
