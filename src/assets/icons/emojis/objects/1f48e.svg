@@ -1,5 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-    <title>gem stone</title>
-    <path fill="#9450e0" d="M41 4H23L2 20.1 32 60l30-39.9z"/>
-    <path fill="#c28fef" d="M32 60l12.5-39.9H18.8zM9.5 9.5L2 20.1h16.8L23 4zM54.5 9.5L41 4l3.5 16.1H62z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#BDDDF4" d="M13 3H7l-7 9h10z"/><path fill="#5DADEC" d="M36 12l-7-9h-6l3 9z"/><path fill="#4289C1" d="M26 12h10L18 33z"/><path fill="#8CCAF7" d="M10 12H0l18 21zm3-9l-3 9h16l-3-9z"/><path fill="#5DADEC" d="M18 33l-8-21h16z"/></svg>

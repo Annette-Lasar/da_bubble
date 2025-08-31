@@ -1,7 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-    <title>next track button</title>
-    <circle cx="32" cy="32" r="30" fill="#4fd1d9"/>
-    <g fill="#fff">
-        <path d="M12 18l17.4 14L12 46zM29.4 18l17.4 14-17.4 14zM46.8 18H52v28h-5.2z"/>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#3B88C3" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/><path fill="#FFF" d="M27 18L15 7v9.166L5 7v22l10-9.167V29zm0-11h4v22h-4z"/></svg>
