@@ -1,9 +1,20 @@
+@use "@angular/material" as mat;
 @use "scss-styles/index";
+@use "scss-styles/custom-colors" as palette;
+
+@include mat.core();
 
 html,
 body {
   height: 100%;
+  overflow: hidden;
+  background-color: #{mat.get-color-from-palette(
+      palette.$secondary-purple-palette,
+      50
+    )};
+  border: 2px solid green;
 }
+
 body {
   margin: 0;
   font-family: Roboto, "Helvetica Neue", sans-serif;

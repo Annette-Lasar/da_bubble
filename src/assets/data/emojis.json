@@ -981,7 +981,7 @@
         "has_skin_tone": false
       },
       {
-        "id": "smileys_0000",
+        "id": "smileys_0051",
         "name": {
           "de": "Nachdenkliches Gesicht",
           "en": "Pensive face"
@@ -2415,6 +2415,2407 @@
     },
     "emojis": [
       {
+        "id": "people_0001",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f44b.svg",
+          "light": "assets/icons/emojis/people_body/1f44b-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f44b-1f3fc.svg",
+          "medium": "assets/icons/emojis/people_body/1f44b-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f44b-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/1f44b-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0002",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f91a.svg",
+          "light": "assets/icons/emojis/people_body/1f91a-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f91a-1f3fc.svg",
+          "medium": "assets/icons/emojis/people_body/1f91a-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f91a-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/1f91a-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0003",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f590.svg",
+          "light": "assets/icons/emojis/people_body/1f590-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f590-1f3fc.svg",
+          "medium": "assets/icons/emojis/people_body/1f590-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f590-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/1f590-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0004",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/270b.svg",
+          "light": "assets/icons/emojis/people_body/270b-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/270b-1f3fb.svg",
+          "medium": "assets/icons/emojis/people_body/270b-1f3fb.svg",
+          "medium_dark": "assets/icons/emojis/people_body/270b-1f3fb.svg",
+          "dark": "assets/icons/emojis/people_body/270b-1f3fb.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0005",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f596.svg",
+          "light": "assets/icons/emojis/people_body/1f596-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f596-1f3fc.svg",
+          "medium": "assets/icons/emojis/people_body/1f596-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f596-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/1f596-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0006",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1faf1.svg",
+          "light": "assets/icons/emojis/people_body/1faf1-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/1faf1-1f3fc.svg",
+          "medium": "assets/icons/emojis/people_body/1faf1-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1faf1-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/1faf1-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0007",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1faf2.svg",
+          "light": "assets/icons/emojis/people_body/1faf2-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/1faf2-1f3fc.svg",
+          "medium": "assets/icons/emojis/people_body/1faf2-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1faf2-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/1faf2-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0008",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1faf3.svg",
+          "light": "assets/icons/emojis/people_body/1faf3-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/1faf3-1f3fc.svg",
+          "medium": "assets/icons/emojis/people_body/1faf3-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1faf3-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/1faf3-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0009",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1faf4.svg",
+          "light": "assets/icons/emojis/people_body/1faf4-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/1faf4-1f3fc.svg",
+          "medium": "assets/icons/emojis/people_body/1faf4-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1faf4-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/1faf4-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_00010",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f44c.svg",
+          "light": "assets/icons/emojis/people_body/1f44c-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f44c-1f3fc.svg",
+          "medium": "assets/icons/emojis/people_body/1f44c-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f44c-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/1f44c-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0011",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f90c.svg",
+          "light": "assets/icons/emojis/people_body/1f90c-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f90c-1f3fc.svg",
+          "medium": "assets/icons/emojis/people_body/1f90c-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f90c-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/1f90c-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0012",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f90f.svg",
+          "light": "assets/icons/emojis/people_body/1f90f-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f90f-1f3fc.svg",
+          "medium": "assets/icons/emojis/people_body/1f90f-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f90f-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/1f90f-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0013",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/270c.svg",
+          "light": "assets/icons/emojis/people_body/270c-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/270c-1f3fc.svg",
+          "medium": "assets/icons/emojis/people_body/270c-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/270c-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/270c-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0014",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f91e.svg",
+          "light": "assets/icons/emojis/people_body/1f91e-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f91e-1f3fc.svg",
+          "medium": "assets/icons/emojis/people_body/1f91e-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f91e-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/1f91e-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0015",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1faf0.svg",
+          "light": "assets/icons/emojis/people_body/1faf0-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/1faf0-1f3fc.svg",
+          "medium": "assets/icons/emojis/people_body/1faf0-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1faf0-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/1faf0-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0016",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f91f.svg",
+          "light": "assets/icons/emojis/people_body/1f91f-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f91f-1f3fc.svg",
+          "medium": "assets/icons/emojis/people_body/1f91f-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f91f-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/1f91f-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0017",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f918.svg",
+          "light": "assets/icons/emojis/people_body/1f918-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f918-1f3fc.svg",
+          "medium": "assets/icons/emojis/people_body/1f918-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f918-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/1f918-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0018",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f919.svg",
+          "light": "assets/icons/emojis/people_body/1f919-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f919-1f3fc.svg",
+          "medium": "assets/icons/emojis/people_body/1f919-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f919-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/1f919-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0019",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f448.svg",
+          "light": "assets/icons/emojis/people_body/1f448-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f448-1f3fc.svg",
+          "medium": "assets/icons/emojis/people_body/1f448-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f448-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/1f448-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0020",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f44d.svg",
+          "light": "assets/icons/emojis/people_body/1f44d-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f44d-1f3fc.svg",
+          "medium": "assets/icons/emojis/people_body/1f44d-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f44d-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/1f44d-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0021",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f446.svg",
+          "light": "assets/icons/emojis/people_body/1f446-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f446-1f3fc.svg",
+          "medium": "assets/icons/emojis/people_body/1f446-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f446-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/1f446-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0022",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f595.svg",
+          "light": "assets/icons/emojis/people_body/1f595-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f595-1f3fc.svg",
+          "medium": "assets/icons/emojis/people_body/1f595-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f595-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/1f595-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0023",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f447.svg",
+          "light": "assets/icons/emojis/people_body/1f447-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f447-1f3fc.svg",
+          "medium": "assets/icons/emojis/people_body/1f447-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f447-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/1f447-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0024",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/261d.svg",
+          "light": "assets/icons/emojis/people_body/261d-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/261d-1f3fc.svg",
+          "medium": "assets/icons/emojis/people_body/261d-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/261d-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/261d-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0025",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1faf5.svg",
+          "light": "assets/icons/emojis/people_body/1faf5-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/1faf5-1f3fc.svg",
+          "medium": "assets/icons/emojis/people_body/1faf5-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1faf5-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/1faf5-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0026",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f449.svg",
+          "light": "assets/icons/emojis/people_body/1f449-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f449-1f3fc.svg",
+          "medium": "assets/icons/emojis/people_body/1f449-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f449-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/1f449-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0027",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f44e.svg",
+          "light": "assets/icons/emojis/people_body/1f44e-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f44e-1f3fc.svg",
+          "medium": "assets/icons/emojis/people_body/1f44e-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f44e-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/1f44e-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0028",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/270a.svg",
+          "light": "assets/icons/emojis/people_body/270a-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/270a-1f3fc.svg",
+          "medium": "assets/icons/emojis/people_body/270a-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/270a-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/270a-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0029",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f44a.svg",
+          "light": "assets/icons/emojis/people_body/1f44a-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f44a-1f3fc.svg",
+          "medium": "assets/icons/emojis/people_body/1f44a-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f44a-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/1f44a-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0030",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f91b.svg",
+          "light": "assets/icons/emojis/people_body/1f91b-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f91b-1f3fc.svg",
+          "medium": "assets/icons/emojis/people_body/1f91b-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f91b-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/1f91b-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0031",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f91c.svg",
+          "light": "assets/icons/emojis/people_body/1f91c-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f91c-1f3fc.svg",
+          "medium": "assets/icons/emojis/people_body/1f91c-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f91c-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/1f91c-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0032",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f44f.svg",
+          "light": "assets/icons/emojis/people_body/1f44f-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f44f-1f3fc.svg",
+          "medium": "assets/icons/emojis/people_body/1f44f-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f44f-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/1f44f-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0033",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f64c.svg",
+          "light": "assets/icons/emojis/people_body/1f64c-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f64c-1f3fc.svg",
+          "medium": "assets/icons/emojis/people_body/1f64c-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f64c-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/1f64c-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0034",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1faf6.svg",
+          "light": "assets/icons/emojis/people_body/1faf6-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/1faf6-1f3fc.svg",
+          "medium": "assets/icons/emojis/people_body/1faf6-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1faf6-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/1faf6-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0035",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f450.svg",
+          "light": "assets/icons/emojis/people_body/1f450-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f450-1f3fc.svg",
+          "medium": "assets/icons/emojis/people_body/1f450-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f450-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/1f450-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0036",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f932.svg",
+          "light": "assets/icons/emojis/people_body/1f932-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f932-1f3fc.svg",
+          "medium": "assets/icons/emojis/people_body/1f932-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f932-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/1f932-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0037",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f91d.svg",
+          "light": "assets/icons/emojis/people_body/1f91d-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f91d-1f3fc.svg",
+          "medium": "assets/icons/emojis/people_body/1f91d-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f91d-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/1f91d-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0038",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1faf1-1f3fb-200d-1faf2-1f3fc.svg",
+          "light": "",
+          "medium_light": "",
+          "medium": "",
+          "medium_dark": "",
+          "dark": ""
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": false
+      },
+      {
+        "id": "people_0039",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1faf1-1f3fb-200d-1faf2-1f3fd.svg",
+          "light": "",
+          "medium_light": "",
+          "medium": "",
+          "medium_dark": "",
+          "dark": ""
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": false
+      },
+      {
+        "id": "people_0040",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1faf1-1f3fb-200d-1faf2-1f3fe.svg",
+          "light": "",
+          "medium_light": "",
+          "medium": "",
+          "medium_dark": "",
+          "dark": ""
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": false
+      },
+      {
+        "id": "people_0041",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1faf1-1f3fb-200d-1faf2-1f3ff.svg",
+          "light": "",
+          "medium_light": "",
+          "medium": "",
+          "medium_dark": "",
+          "dark": ""
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": false
+      },
+      {
+        "id": "people_0042",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1faf1-1f3fc-200d-1faf2-1f3fb.svg",
+          "light": "",
+          "medium_light": "",
+          "medium": "",
+          "medium_dark": "",
+          "dark": ""
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": false
+      },
+      {
+        "id": "people_0043",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1faf1-1f3fc-200d-1faf2-1f3fd.svg",
+          "light": "",
+          "medium_light": "",
+          "medium": "",
+          "medium_dark": "",
+          "dark": ""
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": false
+      },
+      {
+        "id": "people_0044",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1faf1-1f3fc-200d-1faf2-1f3fe.svg",
+          "light": "",
+          "medium_light": "",
+          "medium": "",
+          "medium_dark": "",
+          "dark": ""
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": false
+      },
+      {
+        "id": "people_0045",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1faf1-1f3fc-200d-1faf2-1f3ff.svg",
+          "light": "",
+          "medium_light": "",
+          "medium": "",
+          "medium_dark": "",
+          "dark": ""
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": false
+      },
+      {
+        "id": "people_0046",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1faf1-1f3fd-200d-1faf2-1f3fb.svg",
+          "light": "",
+          "medium_light": "",
+          "medium": "",
+          "medium_dark": "",
+          "dark": ""
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": false
+      },
+      {
+        "id": "people_0047",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1faf1-1f3fd-200d-1faf2-1f3fc.svg",
+          "light": "",
+          "medium_light": "",
+          "medium": "",
+          "medium_dark": "",
+          "dark": ""
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": false
+      },
+      {
+        "id": "people_0048",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1faf1-1f3fd-200d-1faf2-1f3fe.svg",
+          "light": "",
+          "medium_light": "",
+          "medium": "",
+          "medium_dark": "",
+          "dark": ""
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": false
+      },
+      {
+        "id": "people_0049",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1faf1-1f3fd-200d-1faf2-1f3ff.svg",
+          "light": "",
+          "medium_light": "",
+          "medium": "",
+          "medium_dark": "",
+          "dark": ""
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": false
+      },
+      {
+        "id": "people_0050",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1faf1-1f3fe-200d-1faf2-1f3fb.svg",
+          "light": "",
+          "medium_light": "",
+          "medium": "",
+          "medium_dark": "",
+          "dark": ""
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": false
+      },
+      {
+        "id": "people_0051",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1faf1-1f3fe-200d-1faf2-1f3fc.svg",
+          "light": "",
+          "medium_light": "",
+          "medium": "",
+          "medium_dark": "",
+          "dark": ""
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": false
+      },
+      {
+        "id": "people_0052",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1faf1-1f3fe-200d-1faf2-1f3fd.svg",
+          "light": "",
+          "medium_light": "",
+          "medium": "",
+          "medium_dark": "",
+          "dark": ""
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": false
+      },
+      {
+        "id": "people_0053",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1faf1-1f3fe-200d-1faf2-1f3ff.svg",
+          "light": "",
+          "medium_light": "",
+          "medium": "",
+          "medium_dark": "",
+          "dark": ""
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": false
+      },
+      {
+        "id": "people_0054",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1faf1-1f3ff-200d-1faf2-1f3fb.svg",
+          "light": "",
+          "medium_light": "",
+          "medium": "",
+          "medium_dark": "",
+          "dark": ""
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": false
+      },
+      {
+        "id": "people_0055",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1faf1-1f3ff-200d-1faf2-1f3fc.svg",
+          "light": "",
+          "medium_light": "",
+          "medium": "",
+          "medium_dark": "",
+          "dark": ""
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": false
+      },
+      {
+        "id": "people_0056",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1faf1-1f3ff-200d-1faf2-1f3fd.svg",
+          "light": "",
+          "medium_light": "",
+          "medium": "",
+          "medium_dark": "",
+          "dark": ""
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": false
+      },
+      {
+        "id": "people_0057",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1faf1-1f3ff-200d-1faf2-1f3fe.svg",
+          "light": "",
+          "medium_light": "",
+          "medium": "",
+          "medium_dark": "",
+          "dark": ""
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": false
+      },
+      {
+        "id": "people_0058",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f64f.svg",
+          "light": "assets/icons/emojis/people_body/1f64f-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f64f-1f3fc.svg",
+          "medium": "assets/icons/emojis/people_body/1f64f-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f64f-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/1f64f-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0059",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/270d.svg",
+          "light": "assets/icons/emojis/people_body/270d-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/270d-1f3fc.svg",
+          "medium": "assets/icons/emojis/people_body/270d-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/270d-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/270d-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0060",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f485.svg",
+          "light": "assets/icons/emojis/people_body/1f485-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f485-1f3fc.svg",
+          "medium": "assets/icons/emojis/people_body/1f485-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f485-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/1f485-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0061",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f933.svg",
+          "light": "assets/icons/emojis/people_body/1f933-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f933-1f3fc.svg",
+          "medium": "assets/icons/emojis/people_body/1f933-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f933-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/1f933-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0062",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f4aa.svg",
+          "light": "assets/icons/emojis/people_body/1f4aa-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f4aa-1f3fc.svg",
+          "medium": "assets/icons/emojis/people_body/1f4aa-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f4aa-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/1f4aa-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0063",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f9be.svg",
+          "light": "",
+          "medium_light": "",
+          "medium": "",
+          "medium_dark": "",
+          "dark": ""
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": false
+      },
+      {
+        "id": "people_0064",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f9bf.svg",
+          "light": "",
+          "medium_light": "",
+          "medium": "",
+          "medium_dark": "",
+          "dark": ""
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": false
+      },
+      {
+        "id": "people_0065",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f9b5.svg",
+          "light": "assets/icons/emojis/people_body/1f9b5-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f9b5-1f3fc.svg",
+          "medium": "assets/icons/emojis/people_body/1f9b5-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f9b5-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/1f9b5-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0066",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f9b6.svg",
+          "light": "assets/icons/emojis/people_body/1f9b6-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f9b6-1f3fc.svg",
+          "medium": "assets/icons/emojis/people_body/1f9b6-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f9b6-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/1f9b6-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0067",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f442.svg",
+          "light": "assets/icons/emojis/people_body/1f442-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f442-1f3fc.svg",
+          "medium": "assets/icons/emojis/people_body/1f442-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f442-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/1f442-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0068",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f9bb.svg",
+          "light": "assets/icons/emojis/people_body/1f9bb-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f9bb-1f3fc.svg",
+          "medium": "assets/icons/emojis/people_body/1f9bb-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f9bb-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/1f9bb-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0069",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f443.svg",
+          "light": "assets/icons/emojis/people_body/1f443-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f443-1f3fc.svg",
+          "medium": "assets/icons/emojis/people_body/1f443-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f443-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/1f443-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0070",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f9e0.svg",
+          "light": "",
+          "medium_light": "",
+          "medium": "",
+          "medium_dark": "",
+          "dark": ""
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": false
+      },
+      {
+        "id": "people_0071",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1fac0.svg",
+          "light": "",
+          "medium_light": "",
+          "medium": "",
+          "medium_dark": "",
+          "dark": ""
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": false
+      },
+      {
+        "id": "people_0072",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1fac1.svg",
+          "light": "",
+          "medium_light": "",
+          "medium": "",
+          "medium_dark": "",
+          "dark": ""
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": false
+      },
+      {
+        "id": "people_0073",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f9b7.svg",
+          "light": "",
+          "medium_light": "",
+          "medium": "",
+          "medium_dark": "",
+          "dark": ""
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": false
+      },
+      {
+        "id": "people_0001",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f9b4.svg",
+          "light": "",
+          "medium_light": "",
+          "medium": "",
+          "medium_dark": "",
+          "dark": ""
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": false
+      },
+      {
+        "id": "people_0075",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f440.svg",
+          "light": "",
+          "medium_light": "",
+          "medium": "",
+          "medium_dark": "",
+          "dark": ""
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": false
+      },
+      {
+        "id": "people_0076",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f441.svg",
+          "light": "",
+          "medium_light": "",
+          "medium": "",
+          "medium_dark": "",
+          "dark": ""
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": false
+      },
+      {
+        "id": "people_0077",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f445.svg",
+          "light": "",
+          "medium_light": "",
+          "medium": "",
+          "medium_dark": "",
+          "dark": ""
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": false
+      },
+      {
+        "id": "people_0078",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f444.svg",
+          "light": "",
+          "medium_light": "",
+          "medium": "",
+          "medium_dark": "",
+          "dark": ""
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": false
+      },
+      {
+        "id": "people_0079",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1fae6.svg",
+          "light": "",
+          "medium_light": "",
+          "medium": "",
+          "medium_dark": "",
+          "dark": ""
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": false
+      },
+      {
+        "id": "people_0080",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f476.svg",
+          "light": "assets/icons/emojis/people_body/1f476-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f476-1f3fc.svg",
+          "medium": "assets/icons/emojis/people_body/1f476-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f476-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/1f476-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0081",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f9d2.svg",
+          "light": "assets/icons/emojis/people_body/1f9d2-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f9d2-1f3fc.svg",
+          "medium": "assets/icons/emojis/people_body/1f9d2-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f9d2-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/1f9d2-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0082",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f466.svg",
+          "light": "assets/icons/emojis/people_body/1f466-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f466-1f3fc.svg",
+          "medium": "assets/icons/emojis/people_body/1f466-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f466-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/1f466-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0083",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f467.svg",
+          "light": "assets/icons/emojis/people_body/1f467-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f467-1f3fc.svg",
+          "medium": "assets/icons/emojis/people_body/1f467-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f467-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/1f467-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0084",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f9d1.svg",
+          "light": "assets/icons/emojis/people_body/1f9d1-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f9d1-1f3fc.svg",
+          "medium": "assets/icons/emojis/people_body/1f9d1-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f9d1-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/1f9d1-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+
+      {
+        "id": "people_0085",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f471.svg",
+          "light": "assets/icons/emojis/people_body/1f471-1f3fc.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f471-1f3fd.svg",
+          "medium": "assets/icons/emojis/people_body/1f471-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f471-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/1f471-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0086",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f468.svg",
+          "light": "assets/icons/emojis/people_body/1f468-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f468-1f3fc.svg",
+          "medium": "assets/icons/emojis/people_body/1f468-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f468-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/1f468-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0087",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f9d4.svg",
+          "light": "assets/icons/emojis/people_body/1f9d4-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f9d4-1f3fc.svg",
+          "medium": "assets/icons/emojis/people_body/1f9d4-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f9d4-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/1f9d4-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0088",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f9d4-200d-2642-fe0f.svg",
+          "light": "assets/icons/emojis/people_body/1f9d4-1f3fb-200d-2642-fe0f.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f9d4-1f3fc-200d-2642-fe0f.svg",
+          "medium": "assets/icons/emojis/people_body/1f9d4-1f3fd-200d-2642-fe0f.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f9d4-1f3fe-200d-2642-fe0f.svg",
+          "dark": "assets/icons/emojis/people_body/1f9d4-1f3ff-200d-2642-fe0f.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0089",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f9d4-200d-2640-fe0f.svg",
+          "light": "assets/icons/emojis/people_body/1f9d4-1f3fb-200d-2640-fe0f.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f9d4-1f3fc-200d-2640-fe0f.svg",
+          "medium": "assets/icons/emojis/people_body/1f9d4-1f3fd-200d-2640-fe0f.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f9d4-1f3fe-200d-2640-fe0f.svg",
+          "dark": "assets/icons/emojis/people_body/1f9d4-1f3ff-200d-2640-fe0f.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0090",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f468-200d-1f9b0.svg",
+          "light": "assets/icons/emojis/people_body/1f468-1f3fb-200d-1f9b0.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f468-1f3fc-200d-1f9b0.svg",
+          "medium": "assets/icons/emojis/people_body/1f468-1f3fd-200d-1f9b0.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f468-1f3fe-200d-1f9b0.svg",
+          "dark": "assets/icons/emojis/people_body/1f468-1f3ff-200d-1f9b0.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0091",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f468-200d-1f9b1.svg",
+          "light": "assets/icons/emojis/people_body/1f468-200d-1f9b1.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f468-1f3fc-200d-1f9b1.svg",
+          "medium": "assets/icons/emojis/people_body/1f468-1f3fd-200d-1f9b1.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f468-1f3fe-200d-1f9b1.svg",
+          "dark": "assets/icons/emojis/people_body/1f468-1f3ff-200d-1f9b1.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0092",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f468-200d-1f9b3.svg",
+          "light": "assets/icons/emojis/people_body/1f468-1f3fb-200d-1f9b3.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f468-1f3fc-200d-1f9b3.svg",
+          "medium": "assets/icons/emojis/people_body/1f468-1f3fd-200d-1f9b3.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f468-1f3fe-200d-1f9b3.svg",
+          "dark": "assets/icons/emojis/people_body/1f468-1f3ff-200d-1f9b3.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0093",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f468-200d-1f9b2.svg",
+          "light": "assets/icons/emojis/people_body/1f468-1f3fb-200d-1f9b2.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f468-1f3fc-200d-1f9b2.svg",
+          "medium": "assets/icons/emojis/people_body/1f468-1f3fd-200d-1f9b2.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f468-1f3fe-200d-1f9b2.svg",
+          "dark": "assets/icons/emojis/people_body/1f468-1f3ff-200d-1f9b2.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0094",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f469.svg",
+          "light": "assets/icons/emojis/people_body/1f469-1f3fb.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f469-1f3fc.svg",
+          "medium": "assets/icons/emojis/people_body/1f469-1f3fd.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f469-1f3fe.svg",
+          "dark": "assets/icons/emojis/people_body/1f469-1f3ff.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0095",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f469-200d-1f9b0.svg",
+          "light": "assets/icons/emojis/people_body/1f469-1f3fb-200d-1f9b0.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f469-1f3fc-200d-1f9b0.svg",
+          "medium": "assets/icons/emojis/people_body/1f469-1f3fd-200d-1f9b0.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f469-1f3fe-200d-1f9b0.svg",
+          "dark": "assets/icons/emojis/people_body/1f469-1f3ff-200d-1f9b0.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0096",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f9d1-200d-1f9b0.svg",
+          "light": "assets/icons/emojis/people_body/1f9d1-1f3fb-200d-1f9b0.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f9d1-1f3fc-200d-1f9b0.svg",
+          "medium": "assets/icons/emojis/people_body/1f9d1-1f3fd-200d-1f9b0.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f9d1-1f3fe-200d-1f9b0.svg",
+          "dark": "assets/icons/emojis/people_body/1f9d1-1f3ff-200d-1f9b0.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0097",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f469-200d-1f9b1.svg",
+          "light": "assets/icons/emojis/people_body/1f469-1f3fb-200d-1f9b1.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f469-1f3fc-200d-1f9b1.svg",
+          "medium": "assets/icons/emojis/people_body/1f469-1f3fd-200d-1f9b1.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f469-1f3fe-200d-1f9b1.svg",
+          "dark": "assets/icons/emojis/people_body/1f469-1f3ff-200d-1f9b1.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0098",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f9d1-200d-1f9b1.svg",
+          "light": "assets/icons/emojis/people_body/1f9d1-1f3fb-200d-1f9b1.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f9d1-1f3fc-200d-1f9b1.svg",
+          "medium": "assets/icons/emojis/people_body/1f9d1-1f3fd-200d-1f9b1.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f9d1-1f3fe-200d-1f9b1.svg",
+          "dark": "assets/icons/emojis/people_body/1f9d1-1f3ff-200d-1f9b1.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0099",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f469-200d-1f9b3.svg",
+          "light": "assets/icons/emojis/people_body/1f469-1f3fb-200d-1f9b3.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f469-1f3fc-200d-1f9b3.svg",
+          "medium": "assets/icons/emojis/people_body/1f469-1f3fd-200d-1f9b3.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f469-1f3fe-200d-1f9b3.svg",
+          "dark": "assets/icons/emojis/people_body/1f469-1f3ff-200d-1f9b3.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0100",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/1f9d1-200d-1f9b3.svg",
+          "light": "assets/icons/emojis/people_body/1f9d1-1f3fb-200d-1f9b3.svg",
+          "medium_light": "assets/icons/emojis/people_body/1f9d1-1f3fc-200d-1f9b3.svg",
+          "medium": "assets/icons/emojis/people_body/1f9d1-1f3fd-200d-1f9b3.svg",
+          "medium_dark": "assets/icons/emojis/people_body/1f9d1-1f3fe-200d-1f9b3.svg",
+          "dark": "assets/icons/emojis/people_body/1f9d1-1f3ff-200d-1f9b3.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
         "id": "people_0000",
         "name": {
           "de": "",
@@ -2425,12 +4826,2628 @@
           "en": ""
         },
         "files": {
-          "default": "assets/icons/emojis/people_body/",
-          "light": "assets/icons/emojis/people_body/",
-          "medium_light": "assets/icons/emojis/people_body/",
-          "medium": "assets/icons/emojis/people_body/",
-          "medium_dark": "assets/icons/emojis/people_body/",
-          "dark": "assets/icons/emojis/people_body/"
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
+        },
+        "keywords": {
+          "de": [],
+          "en": []
+        },
+        "has_skin_tone": true
+      },
+      {
+        "id": "people_0000",
+        "name": {
+          "de": "",
+          "en": ""
+        },
+        "label": {
+          "de": "",
+          "en": ""
+        },
+        "files": {
+          "default": "assets/icons/emojis/people_body/.svg",
+          "light": "assets/icons/emojis/people_body/.svg",
+          "medium_light": "assets/icons/emojis/people_body/.svg",
+          "medium": "assets/icons/emojis/people_body/.svg",
+          "medium_dark": "assets/icons/emojis/people_body/.svg",
+          "dark": "assets/icons/emojis/people_body/.svg"
         },
         "keywords": {
           "de": [],

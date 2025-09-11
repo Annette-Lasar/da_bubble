@@ -1,0 +1,23 @@
+@use "@angular/material" as mat;
+@use "../../scss-styles/mixins";
+@use "../../scss-styles/custom-colors" as palette;
+
+main {
+  height: 100%;
+  width: 100%;
+  @include mixins.flex-container($justify: center);
+}
+
+bubble-login {
+  height: 65%;
+  max-height: 760px;
+  width: 90%;
+  max-width: 600px;
+  @include mixins.flex-container($justify: center);
+  background-color: #{mat.get-contrast-color-from-palette(
+      palette.$secondary-purple-palette,
+      400
+    )};
+  @include mixins.shadow(0px, 2px, 10px, 0px, #000000, 0.08);
+  border-radius: 30px;
+}

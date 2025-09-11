@@ -4,9 +4,11 @@
 $primary-purple-palette: mat.define-palette(
   (
     50: #eaeafd,
-    100: #c6c8f9,
+    100: #686868,
+    // disabled color according to mockup
     200: #a3a7f5,
-    300: #7e85f1,
+    300: #797ef3,
+    // hover color according to mockup
     400: #666ef0,
     500: #444df2,
     // main color according to mockup
@@ -16,7 +18,7 @@ $primary-purple-palette: mat.define-palette(
     900: #2025a1,
     contrast: (
       50: rgba(0, 0, 0, 0.87),
-      100: rgba(0, 0, 0, 0.87),
+      100: rgba(255, 255, 255, 1),
       200: rgba(0, 0, 0, 0.87),
       300: rgba(255, 255, 255, 1),
       400: rgba(255, 255, 255, 1),
@@ -32,12 +34,14 @@ $primary-purple-palette: mat.define-palette(
 // Secondary color palette:
 $secondary-purple-palette: mat.define-palette(
   (
-    50: #eceeff,
-    100: #d2d5fc,
-    200: #b8bcf8,
+    50: #eceeff, // light background for icon buttons' hover state
+    100: #686868,
+    200: #adb0d9,
+    // light purble lines according to mockup
     300: #9ea3f5,
-    400: #858af3,
+    400: #797ef3,
     500: #535af1,
+    // hover color according to mockup
     // secondary color according to mockup
     600: #4b52e0,
     700: #4349cb,
@@ -45,7 +49,7 @@ $secondary-purple-palette: mat.define-palette(
     900: #2a3099,
     contrast: (
       50: rgba(0, 0, 0, 0.87),
-      100: rgba(0, 0, 0, 0.87),
+      100: rgba(255, 255, 255, 1),
       200: rgba(0, 0, 0, 0.87),
       300: rgba(0, 0, 0, 0.87),
       400: rgba(255, 255, 255, 1),
@@ -144,3 +148,8 @@ $success-green-palette: mat.define-palette(
     ),
   )
 );
+
+
+// further colors:
+
+$very-light-purple: #ECEEFE;

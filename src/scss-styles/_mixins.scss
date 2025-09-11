@@ -1,0 +1,18 @@
+@mixin flex-container(
+  $direction: row,
+  $align: center,
+  $justify: space-between,
+  $gap: 0px
+) {
+  display: flex;
+  flex-direction: $direction;
+  align-items: $align;
+  justify-content: $justify;
+  gap: $gap;
+}
+
+@mixin shadow($x, $y, $blur, $spread, $color, $opacity: 1) {
+  $rgba: if(type-of($color) == "color", rgba($color, $opacity), $color);
+
+  box-shadow: #{$x} #{$y} #{$blur} #{$spread} #{$rgba};
+}

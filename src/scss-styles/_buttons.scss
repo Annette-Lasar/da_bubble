@@ -1,0 +1,263 @@
+@use "@angular/material" as mat;
+@use "./custom-colors" as palette;
+
+/* ===========================
+   PRIMARY BUTTON (filled)
+   =========================== */
+.my-btn-primary.mat-mdc-unelevated-button {
+  border-radius: 9999px;
+
+  // Standard-Zustand
+  --mdc-filled-button-container-color: #{mat.get-color-from-palette(
+      palette.$primary-purple-palette,
+      500
+    )};
+  --mdc-filled-button-label-text-color: #{mat.get-contrast-color-from-palette(
+      palette.$primary-purple-palette,
+      500
+    )};
+
+  // Hover
+  --mdc-filled-button-hover-state-layer-color: #{mat.get-color-from-palette(
+      palette.$primary-purple-palette,
+      300
+    )};
+  --mdc-filled-button-hover-state-layer-opacity: 0.08;
+
+  // Gedrückt
+  --mdc-filled-button-pressed-state-layer-color: #{mat.get-color-from-palette(
+      palette.$primary-purple-palette,
+      500
+    )};
+  --mdc-filled-button-pressed-state-layer-opacity: 0.12;
+
+  // Deaktiviert
+  --mdc-filled-button-disabled-container-color: #{mat.get-color-from-palette(
+      palette.$primary-purple-palette,
+      100
+    )};
+  --mdc-filled-button-disabled-label-text-color: #{mat.get-contrast-color-from-palette(
+      palette.$primary-purple-palette,
+      100
+    )};
+
+  &:hover:not(:disabled) {
+    background-color: #{mat.get-color-from-palette(
+        palette.$primary-purple-palette,
+        300
+      )};
+  }
+
+  &:active:not(:disabled) {
+    background-color: #{mat.get-color-from-palette(
+        palette.$primary-purple-palette,
+        500
+      )};
+  }
+}
+
+/* ===========================
+   SECONDARY BUTTON (outlined)
+   =========================== */
+.my-btn-secondary.mat-mdc-outlined-button {
+  border-radius: 9999px;
+
+  --mdc-outlined-button-container-color: #{mat.get-contrast-color-from-palette(
+      palette.$secondary-purple-palette,
+      400
+    )};
+  --mdc-outlined-button-outline-color: #{mat.get-color-from-palette(
+      palette.$secondary-purple-palette,
+      500
+    )};
+  --mdc-outlined-button-label-text-color: #{mat.get-color-from-palette(
+      palette.$secondary-purple-palette,
+      500
+    )};
+
+  &:not(:disabled):hover {
+    background-color: #{mat.get-color-from-palette(
+        palette.$secondary-purple-palette,
+        500
+      )};
+    border-color: #{mat.get-color-from-palette(
+        palette.$secondary-purple-palette,
+        500
+      )};
+    --mdc-outlined-button-label-text-color: #{mat.get-contrast-color-from-palette(
+        palette.$secondary-purple-palette,
+        500
+      )};
+  }
+
+  &:not(:disabled):active {
+    background-color: #{mat.get-color-from-palette(
+        palette.$primary-purple-palette,
+        500
+      )};
+    border-color: #{mat.get-color-from-palette(
+        palette.$primary-purple-palette,
+        500
+      )};
+    --mdc-outlined-button-label-text-color: #{mat.get-contrast-color-from-palette(
+        palette.$primary-purple-palette,
+        500
+      )};
+  }
+
+  &:disabled {
+    background-color: #{mat.get-contrast-color-from-palette(
+        palette.$secondary-purple-palette,
+        400
+      )};
+    border-color: #{mat.get-color-from-palette(
+        palette.$secondary-purple-palette,
+        100
+      )};
+    --mdc-outlined-button-label-text-color: #{mat.get-color-from-palette(
+        palette.$secondary-purple-palette,
+        100
+      )};
+  }
+
+  mat-icon {
+    margin-right: 0.5rem;
+  }
+}
+
+.my-btn-link-optics-dark.mat-mdc-outlined-button {
+  border-radius: 9999px;
+
+  background-color: transparent;
+  border: 1px solid transparent;
+  color: #{mat.get-color-from-palette(palette.$secondary-purple-palette, 400)};
+  --mdc-outlined-button-label-text-color: #{mat.get-color-from-palette(
+      palette.$secondary-purple-palette,
+      400
+    )};
+  --mdc-outlined-button-outline-color: transparent;
+
+  .mat-mdc-button-persistent-ripple::before {
+    background: transparent !important;
+    opacity: 0 !important;
+  }
+
+  transition: background-color 0.15s ease, border-color 0.15s ease,
+    color 0.15s ease;
+
+  &:not(:disabled):hover,
+  &:not(:disabled):focus-visible {
+    background-color: #{mat.get-color-from-palette(
+        palette.$secondary-purple-palette,
+        50
+      )};
+    border-color: transparent;
+    color: #{mat.get-color-from-palette(palette.$primary-purple-palette, 500)};
+
+    --mdc-outlined-button-label-text-color: #{mat.get-color-from-palette(
+        palette.$primary-purple-palette,
+        500
+      )};
+    --mdc-outlined-button-outline-color: #{mat.get-color-from-palette(
+        palette.$secondary-purple-palette,
+        200
+      )};
+  }
+
+  &:focus-visible {
+    outline: 2px solid #{mat.get-color-from-palette(
+        palette.$secondary-purple-palette,
+        300
+      )};
+    outline-offset: 2px;
+  }
+}
+
+.my-btn-link-optics-light.mat-mdc-outlined-button {
+  border-radius: 9999px;
+
+  background-color: transparent;
+  border: 1px solid transparent;
+  color: #{mat.get-color-from-palette(palette.$secondary-purple-palette, 400)};
+  --mdc-outlined-button-label-text-color: #{mat.get-color-from-palette(
+      palette.$secondary-purple-palette,
+      400
+    )};
+  --mdc-outlined-button-outline-color: transparent;
+
+  .mat-mdc-button-persistent-ripple::before {
+    background: transparent !important;
+    opacity: 0 !important;
+  }
+
+  transition: background-color 0.15s ease, border-color 0.15s ease,
+    color 0.15s ease;
+
+  &:not(:disabled):hover,
+  &:not(:disabled):focus-visible {
+    background-color: #{mat.get-contrast-color-from-palette(
+        palette.$secondary-purple-palette,
+        400
+      )};
+    border-color: #{mat.get-color-from-palette(
+        palette.$secondary-purple-palette,
+        200
+      )};
+    color: #{mat.get-color-from-palette(palette.$primary-purple-palette, 500)};
+
+    --mdc-outlined-button-label-text-color: #{mat.get-color-from-palette(
+        palette.$primary-purple-palette,
+        500
+      )};
+    --mdc-outlined-button-outline-color: #{mat.get-color-from-palette(
+        palette.$secondary-purple-palette,
+        200
+      )};
+  }
+
+  &:focus-visible {
+    outline: 2px solid #{mat.get-color-from-palette(
+        palette.$secondary-purple-palette,
+        300
+      )};
+    outline-offset: 2px;
+  }
+}
+
+/* ===========================
+   ICON-ONLY BUTTON (optional)
+   =========================== */
+.my-btn-icon-only {
+  border-radius: 50%;
+  padding: 0.5rem;
+  background-color: mat.get-color-from-palette(
+    palette.$primary-purple-palette,
+    500
+  );
+  color: mat.get-contrast-color-from-palette(
+    palette.$primary-purple-palette,
+    500
+  );
+
+  &:hover {
+    background-color: mat.get-color-from-palette(
+      palette.$primary-purple-palette,
+      300
+    );
+  }
+
+  &:disabled {
+    background-color: mat.get-color-from-palette(
+      palette.$primary-purple-palette,
+      100
+    );
+    color: mat.get-contrast-color-from-palette(
+      palette.$primary-purple-palette,
+      100
+    );
+  }
+
+  mat-icon {
+    margin: 0;
+  }
+}

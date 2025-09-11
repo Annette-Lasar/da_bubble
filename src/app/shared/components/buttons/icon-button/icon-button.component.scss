@@ -1,0 +1,58 @@
+@use "@angular/material" as mat;
+@use "../../../../../scss-styles/custom-colors" as palette;
+
+.icon-btn {
+  border-radius: 50%;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: transparent;
+  color: #{mat.get-contrast-color-from-palette(
+      palette.$secondary-purple-palette,
+      50
+    )};
+  --icon-stroke: 1;
+  border: none;
+  cursor: pointer;
+
+  svg {
+    width: 100%;
+    height: 100%;
+    fill: #{mat.get-contrast-color-from-palette(
+        palette.$secondary-purple-palette,
+        50
+      )};
+    stroke: #{mat.get-contrast-color-from-palette(
+        palette.$secondary-purple-palette,
+        50
+      )};
+    stroke-width: 1;
+    transition: fill 0.2s, stroke 0.2s, stroke-width 0.2s;
+  }
+}
+
+.icon-btn-2-states:hover,
+.icon-btn-3-states:hover {
+  background: #{mat.get-color-from-palette(
+      palette.$secondary-purple-palette,
+      50
+    )};
+  img {
+    filter: none;
+  }
+}
+
+.icon-btn-2-states:hover {
+  color: #{mat.get-color-from-palette(palette.$primary-purple-palette, 500)};
+}
+
+.icon-btn-3-states:hover {
+  color: #{mat.get-color-from-palette(palette.$primary-purple-palette, 500)};
+}
+
+.icon-btn-3-states:active {
+  color: #{mat.get-color-from-palette(palette.$primary-purple-palette, 500)};
+  --icon-stroke: 1.25;
+}
