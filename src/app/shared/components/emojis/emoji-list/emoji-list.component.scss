@@ -1,0 +1,19 @@
+section {
+  height: 300px;
+  border: 2px solid red;
+}
+
+.emoji-icon-wrapper {
+  height: 80%;
+  padding: 1em 0.5em;
+  overflow-y: auto;
+  border: 2px solid purple;
+}
+
+.emoji {
+  width: 24px;
+  height: 24px;
+  margin: 0 2px 2px 0;
+  display: inline-block;
+  cursor: pointer;
+}

@@ -2,11 +2,12 @@ import { Component } from '@angular/core';
 import { Router } from '@angular/router';
 import { MatButtonModule } from '@angular/material/button';
 import { IconButtonComponent } from '../shared/components/buttons/icon-button/icon-button.component';
+import { EmojiListComponent } from "../shared/components/emojis/emoji-list/emoji-list.component";
 
 @Component({
   selector: 'bubble-messenger',
   standalone: true,
-  imports: [MatButtonModule, IconButtonComponent],
+  imports: [MatButtonModule, IconButtonComponent, EmojiListComponent],
   templateUrl: './messenger.component.html',
   styleUrl: './messenger.component.scss',
 })
