@@ -1,6 +1,7 @@
 export interface EmojiCategory {
   category: string;
   ux_title: MultiLang;
+  icon: string;
   emojis: Emoji[];
 }
 

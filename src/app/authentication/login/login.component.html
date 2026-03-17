@@ -1,6 +1,24 @@
 <section>
-  <h2>Anmeldung</h2>
-  <br />
+  <h1>Anmeldung</h1>
+  <p>
+    Wir empfehlen dir, die E-Mail-Adresse zu nutzen, die du bei der Arbeit
+    verwendest.
+  </p>
+
+  <div class="example-container">
+  <mat-form-field>
+    <mat-label>Enter your email</mat-label>
+    <input matInput
+           placeholder="pat@example.com"
+           [formControl]="email"
+           (blur)="updateErrorMessage()"
+           required>
+    @if (email.invalid) {
+      <mat-error>{{errorMessage}}</mat-error>
+    }
+  </mat-form-field>
+</div>
+
   <button mat-flat-button class="my-btn-primary" (click)="onLogin()">
     Anmelden
   </button>

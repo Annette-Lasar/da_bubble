@@ -1,10 +1,30 @@
+@use "@angular/material" as mat;
+@use "../../../../../scss-styles/custom-colors" as palette;
+
 section {
   height: 300px;
-  border: 2px solid red;
+}
+
+mat-toolbar {
+  width: 100%;
+  background-color: #{mat.get-color-from-palette(
+      palette.$secondary-purple-palette,
+      50
+    )};
+}
+
+.emoji-search-form-field {
+  width: 95%;
+  height: 40px;
+  margin: 0 auto;
+  display: block;
+  font-size: 14px;
+  padding: 0 8px;
+  border-radius: 12px;
 }
 
 .emoji-icon-wrapper {
-  height: 80%;
+  height: 65%;
   padding: 1em 0.5em;
   overflow-y: auto;
   border: 2px solid purple;
@@ -13,7 +33,7 @@ section {
 .emoji {
   width: 24px;
   height: 24px;
-  margin: 0 2px 2px 0;
+  margin: 0 3px 3px 0;
   display: inline-block;
   cursor: pointer;
 }

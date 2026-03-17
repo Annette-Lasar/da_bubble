@@ -5,6 +5,7 @@
       "de": "Smileys & Emotionen",
       "en": "Smileys & Emotions"
     },
+    "icon": "sentiment_satisfied",
     "emojis": [
       {
         "id": "emoji-1f600",
@@ -2413,6 +2414,7 @@
       "de": "Menschen & Körper",
       "en": "People & Body"
     },
+    "icon": "person",
     "emojis": [
       {
         "id": "emoji-1f44b",
@@ -17060,6 +17062,7 @@
       "de": "Tiere & Natur",
       "en": "Animals & Nature"
     },
+    "icon": "filter_vintage",
     "emojis": [
       {
         "id": "emoji-1f435",
@@ -20964,6 +20967,7 @@
       "de": "Essen & Trinken",
       "en": "Food & Drink"
     },
+    "icon": "restaurant",
     "emojis": [
       {
         "id": "emoji-1f347",
@@ -23405,6 +23409,7 @@
       "de": "Aktivitäten & Sport",
       "en": "Activities & Sport"
     },
+    "icon": "pedal_bike",
     "emojis": [
       {
         "id": "emoji-1f383",
@@ -24897,6 +24902,7 @@
       "de": "Reisen & Orte",
       "en": "Travel & Places"
     },
+    "icon": "directions_car",
     "emojis": [
       {
         "id": "emoji-1f30d",
@@ -27509,6 +27515,7 @@
       "de": "Objekte",
       "en": "Objects"
     },
+    "icon": "emoji_objects",
     "emojis": [
       {
         "id": "emoji-1f6ce",
@@ -33162,6 +33169,7 @@
       "de": "Symbole",
       "en": "Symbols"
     },
+    "icon": "emoji_symbols",
     "emojis": [
       {
         "id": "emoji-1f48c",
@@ -38662,6 +38670,7 @@
       "de": "Flaggen",
       "en": "Flags"
     },
+    "icon": "flag_2",
     "emojis": [
       {
         "id": "emoji-1f1e6-1f1ec",

@@ -1,35 +1,25 @@
 <section>
   <mat-toolbar>
-  <button mat-icon-button class="emoji-category-icon" aria-label="Example icon-button with menu icon">
-    <mat-icon>sentiment_satisfied</mat-icon>
-  </button>
-  
-  
-  <button mat-icon-button class="emoji-category-icon" aria-label="Example icon-button with heart icon">
-    <mat-icon>person</mat-icon>
-  </button>
-  <button mat-icon-button class="emoji-category-icon" aria-label="Example icon-button with share icon">
-    <mat-icon>filter_vintage</mat-icon>
-  </button>
-  <button mat-icon-button class="emoji-category-icon" aria-label="Example icon-button with share icon">
-    <mat-icon>restaurant</mat-icon>
-  </button>
-  <button mat-icon-button class="emoji-category-icon" aria-label="Example icon-button with share icon">
-    <mat-icon>pedal_bike</mat-icon>
-  </button>
-  <button mat-icon-button class="emoji-category-icon" aria-label="Example icon-button with share icon">
-    <mat-icon>directions_car</mat-icon>
-  </button>
-  <button mat-icon-button class="emoji-category-icon" aria-label="Example icon-button with share icon">
-    <mat-icon>emoji_objects</mat-icon>
-  </button>
-  <button mat-icon-button class="emoji-category-icon" aria-label="Example icon-button with share icon">
-    <mat-icon>glyphs</mat-icon>
-  </button>
-  <button mat-icon-button class="emoji-category-icon" aria-label="Example icon-button with share icon">
-    <mat-icon>flag_2</mat-icon>
-  </button>
-</mat-toolbar>
+    @for (category of categories$ | async; track category.category) {
+    <button
+      mat-icon-button
+      class="emoji-category-icon"
+      aria-label="Example icon-button with menu icon"
+      (click)="scrollTo(category.category)"
+    >
+      <mat-icon>{{ category.icon }}</mat-icon>
+    </button>
+    }
+  </mat-toolbar>
+  <mat-form-field class="emoji-search-form-field" appearance="outline">
+  <mat-label>Suchbegriff ...</mat-label>
+  <input matInput type="text" [(ngModel)]="value">
+  @if (value) {
+    <button matSuffix mat-icon-button aria-label="Clear" (click)="value=''">
+      <mat-icon>close</mat-icon>
+    </button>
+  }
+</mat-form-field>
   <div class="emoji-icon-wrapper">
     @for (category of categories$ | async; track category.category) {
     <div class="cat" [attr.id]="category.category">

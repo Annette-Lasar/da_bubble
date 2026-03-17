@@ -12,10 +12,17 @@ body {
       palette.$secondary-purple-palette,
       50
     )};
-  border: 2px solid green;
 }
 
 body {
   margin: 0;
   font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+*::-webkit-scrollbar {
+  display: none;
+}
+
+.d-none {
+  display: none;
 }
